@@ -1,0 +1,1252 @@
+grid_lat,grid_lon,year,month,Plastic_Density_kg_km2,Plastic_Record_Count,Plastic_Types_Present,Ocean_Zone,Species_Count,Unique_Species,Taxonomic_Groups,Dominant_IUCN,Observation_Types,SST_C,pH,Species_Obs,Heatwave_Pct,Country,Waste_Source,Coastal_Risk,Recycling_Rate_Pct,Avg_Temp_C,Temp_Change_C,co2_ppm,CO2_Change_ppm,Sea_Level_Change_mm,Regional_Contribution_Pct,Habitat_Type
+5,70,2016,5.0,0.0179096063499392,1.0,PET,Arabian_Sea,,,,,,28.52,8.103399999999999,123.0,0.4,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,35.33,Open_Ocean
+5,76,2015,4.0,0.0282271990920306,1.0,PS,Bay_of_Bengal,,,,,,28.732,8.048399999999999,101.2,0.2,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Open_Ocean
+5,76,2024,,,,,Bay_of_Bengal,6.0,1.0,Mammalia,VU,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Open_Ocean
+5,77,2024,,,,,Bay_of_Bengal,1.0,1.0,Mammalia,VU,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Open_Ocean
+5,83,2015,2.0,0.0269981764507271,1.0,PP,Bay_of_Bengal,,,,,,27.8575,8.02175,123.0,0.0,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Open_Ocean
+5,92,2024,,,,,Indian_Ocean,1.0,1.0,Mammalia,VU,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+5,93,2024,,,,,Indian_Ocean,1.0,1.0,Mammalia,VU,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+6,69,2015,12.0,0.0325683795338278,1.0,PET,Arabian_Sea,,,,,,27.054,8.0694,131.8,0.2,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Open_Ocean
+6,71,2015,8.0,0.0390814684133498,1.0,PVC,Arabian_Sea,,,,,,29.325,8.03725,118.75,0.5,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Open_Ocean
+6,76,2024,,,,,Bay_of_Bengal,5.0,1.0,Mammalia,VU,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Open_Ocean
+6,77,2024,,,,,Bay_of_Bengal,3.0,1.0,Mammalia,VU,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Open_Ocean
+6,78,2016,4.0,0.0364623455747386,1.0,PS,Bay_of_Bengal,,,,,,28.68,8.05475,114.0,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,26.26,Open_Ocean
+6,80,2016,6.0,0.0110123581573224,1.0,PET,Bay_of_Bengal,,,,,,28.44,8.0762,125.2,0.2,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,26.26,Open_Ocean
+6,85,2015,7.0,0.0062954959488056,1.0,PVC,Bay_of_Bengal,,,,,,27.908,8.051,133.0,0.2,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Open_Ocean
+6,86,2015,6.0,0.0136989727576521,1.0,PS,Bay_of_Bengal,,,,,,27.986,8.0716,120.6,0.2,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Open_Ocean
+6,89,2016,7.0,0.0219663493925567,1.0,PP,Bay_of_Bengal,,,,,,28.0475,8.072,125.25,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,26.26,Open_Ocean
+6,91,2016,1.0,0.0314015277130924,1.0,PET,Indian_Ocean,,,,,,29.292,8.0472,119.0,0.2,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,20.9,Open_Ocean
+6,93,2016,,,,,Indian_Ocean,2.0,1.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,20.9,Open_Ocean
+6,93,2024,,,,,Indian_Ocean,1.0,1.0,Pisces,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+6,93,2025,,,,,Indian_Ocean,3.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+7,70,2015,9.0,0.007663761342824,1.0,PP,Arabian_Sea,,,,,,29.066000000000003,8.0338,114.0,0.2,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Open_Ocean
+7,75,2016,8.0,0.0215872137322389,1.0,PP,Arabian_Sea,,,,,,26.782,8.080200000000001,124.0,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,35.33,Open_Ocean
+7,78,2016,8.0,0.0159698824945727,1.0,PS,Bay_of_Bengal,,,,,,26.782,8.080200000000001,124.0,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,26.26,Open_Ocean
+7,84,2015,11.0,0.0287359602924883,1.0,PVC,Bay_of_Bengal,,,,,,29.31,8.07125,105.75,0.25,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Open_Ocean
+7,87,2016,4.0,0.0207628950844458,1.0,PVC,Bay_of_Bengal,,,,,,28.68,8.05475,114.0,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,26.26,Open_Ocean
+7,89,2015,2.0,0.0299883543895327,1.0,PP,Bay_of_Bengal,,,,,,27.8575,8.02175,123.0,0.0,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Open_Ocean
+7,92,2024,,,,,Indian_Ocean,1.0,1.0,Mammalia,VU,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+7,93,2019,,,,,Indian_Ocean,2.0,1.0,Mammalia,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,20.9,Open_Ocean
+7,93,2025,,,,,Indian_Ocean,2.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+7,94,2024,,,,,Indian_Ocean,1.0,1.0,Mammalia,VU,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+8,67,2015,7.0,0.0256707947864999,1.0,PET,Arabian_Sea,,,,,,27.908,8.051,133.0,0.2,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Open_Ocean
+8,69,2016,2.0,0.0172220409443327,1.0,PET,Arabian_Sea,,,,,,28.1625,8.104000000000001,122.75,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,35.33,Open_Ocean
+8,70,2015,2.0,0.0366786505442391,1.0,PS,Arabian_Sea,,,,,,27.8575,8.02175,123.0,0.0,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Open_Ocean
+8,71,2024,,,,,Arabian_Sea,1.0,1.0,Mammalia,VU,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Open_Ocean
+8,73,2024,,,,,Arabian_Sea,2.0,2.0,Mammalia,LC/Not Evaluated,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Coral_Reef
+8,74,2024,,,,,Arabian_Sea,3.0,1.0,Mammalia,VU,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Coral_Reef
+8,75,2024,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Open_Ocean
+8,76,2015,,,,,Bay_of_Bengal,3.0,2.0,Mammalia,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Coral_Reef
+8,76,2017,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,26.26,Coral_Reef
+8,76,2023,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,26.26,Coral_Reef
+8,76,2024,,,,,Bay_of_Bengal,3.0,3.0,Aves|Pisces,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Coral_Reef
+8,76,2025,,,,,Bay_of_Bengal,69.0,11.0,Aves|Mammalia|Reptilia,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Coral_Reef
+8,77,2015,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Coral_Reef
+8,77,2017,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,26.26,Coral_Reef
+8,77,2018,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,26.26,Coral_Reef
+8,77,2019,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,26.26,Coral_Reef
+8,77,2020,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,26.26,Coral_Reef
+8,77,2022,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,26.26,Coral_Reef
+8,77,2023,,,,,Bay_of_Bengal,3.0,3.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,26.26,Coral_Reef
+8,77,2024,,,,,Bay_of_Bengal,9.0,7.0,Aves|Pisces,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Coral_Reef
+8,77,2025,,,,,Bay_of_Bengal,52.0,10.0,Aves|Mammalia|Reptilia,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Coral_Reef
+8,78,2016,,,,,Bay_of_Bengal,4.0,1.0,Mammalia,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,26.26,Coral_Reef
+8,78,2024,,,,,Bay_of_Bengal,4.0,2.0,Mammalia,LC/Not Evaluated,Occurrence|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Coral_Reef
+8,78,2025,,,,,Bay_of_Bengal,5.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Coral_Reef
+8,79,2024,,,,,Bay_of_Bengal,2.0,1.0,Mammalia,LC/Not Evaluated,Occurrence|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Coral_Reef
+8,81,2019,,,,,Bay_of_Bengal,1.0,1.0,Mammalia,LC/Not Evaluated,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,26.26,Open_Ocean
+8,84,2015,2.0,0.0135871095150477,1.0,PVC,Bay_of_Bengal,,,,,,27.8575,8.02175,123.0,0.0,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Open_Ocean
+8,84,2015,5.0,0.0232498319069545,1.0,PS,Bay_of_Bengal,,,,,,28.5575,8.07275,116.5,0.0,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Open_Ocean
+8,87,2015,8.0,0.0034830901674197,1.0,PE,Bay_of_Bengal,,,,,,29.325,8.03725,118.75,0.5,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Open_Ocean
+8,90,2016,3.0,0.0150744564144677,1.0,PET,Bay_of_Bengal,,,,,,28.316000000000003,8.044799999999999,122.4,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,26.26,Open_Ocean
+8,91,2024,,,,,Indian_Ocean,2.0,1.0,Mammalia,VU,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+8,93,2015,3.0,0.0196186920784592,1.0,PVC,Indian_Ocean,,,,,,28.492,8.0546,120.8,0.4,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,20.9,Open_Ocean
+8,93,2024,,,,,Indian_Ocean,1.0,1.0,Mammalia,VU,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+8,93,2025,,,,,Indian_Ocean,1.0,1.0,Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+9,68,2016,5.0,0.0255319629183425,1.0,PET,Arabian_Sea,,,,,,28.52,8.103399999999999,123.0,0.4,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,35.33,Open_Ocean
+9,72,2024,,,,,Arabian_Sea,1.0,1.0,Mammalia,VU,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Coral_Reef
+9,74,2015,9.0,0.0393797160721592,1.0,PE,Arabian_Sea,,,,,,29.066000000000003,8.0338,114.0,0.2,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Coral_Reef
+9,74,2024,,,,,Arabian_Sea,2.0,1.0,Mammalia,VU,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Coral_Reef
+9,75,2017,,,,,Arabian_Sea,2.0,2.0,Mammalia,LC/Not Evaluated,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,35.33,Open_Ocean
+9,75,2023,,,,,Arabian_Sea,2.0,1.0,Mammalia,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,35.33,Open_Ocean
+9,76,2015,,,,,Bay_of_Bengal,3.0,1.0,Mammalia,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Coral_Reef
+9,76,2016,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,26.26,Coral_Reef
+9,76,2017,,,,,Bay_of_Bengal,4.0,3.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,26.26,Coral_Reef
+9,76,2018,,,,,Bay_of_Bengal,1.0,1.0,Pisces,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,26.26,Coral_Reef
+9,76,2020,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,26.26,Coral_Reef
+9,76,2021,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,26.26,Coral_Reef
+9,76,2022,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,26.26,Coral_Reef
+9,76,2023,,,,,Bay_of_Bengal,19.0,6.0,Aves|Mammalia|Reptilia,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,26.26,Coral_Reef
+9,76,2024,,,,,Bay_of_Bengal,54.0,11.0,Aves|Mammalia,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Coral_Reef
+9,76,2025,,,,,Bay_of_Bengal,225.0,18.0,Aves|Mammalia|Reptilia,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Coral_Reef
+9,77,2022,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,26.26,Coral_Reef
+9,77,2024,,,,,Bay_of_Bengal,7.0,2.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Coral_Reef
+9,77,2025,,,,,Bay_of_Bengal,17.0,7.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Coral_Reef
+9,78,2019,,,,,Bay_of_Bengal,1.0,1.0,Mammalia,LC/Not Evaluated,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,26.26,Coral_Reef
+9,78,2024,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Coral_Reef
+9,78,2025,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Coral_Reef
+9,79,2023,,,,,Bay_of_Bengal,2.0,2.0,Mammalia|Reptilia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,26.26,Coral_Reef
+9,79,2024,,,,,Bay_of_Bengal,4.0,3.0,Mammalia|Reptilia,LC/Not Evaluated,Occurrence|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Coral_Reef
+9,79,2025,,,,,Bay_of_Bengal,7.0,4.0,Aves|Reptilia,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Coral_Reef
+9,82,2016,1.0,0.0207427727853694,1.0,PET,Bay_of_Bengal,,,,,,29.292,8.0472,119.0,0.2,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,26.26,Open_Ocean
+9,91,2024,,,,,Indian_Ocean,2.0,1.0,Mammalia,VU,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+9,92,2024,,,,,Indian_Ocean,1.0,1.0,Mammalia,VU,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+9,93,2024,,,,,Indian_Ocean,4.0,1.0,Mammalia,VU,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+10,70,2015,3.0,0.0352578124565447,1.0,PS,Arabian_Sea,,,,,,28.492,8.0546,120.8,0.4,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Open_Ocean
+10,72,2015,,,,,Arabian_Sea,1.0,1.0,Reptilia,VU,Scientific,,,,,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Coral_Reef
+10,72,2022,,,,,Arabian_Sea,1.0,1.0,Reptilia,VU,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,35.33,Coral_Reef
+10,72,2023,,,,,Arabian_Sea,2.0,1.0,Mammalia,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,35.33,Coral_Reef
+10,72,2025,,,,,Arabian_Sea,1.0,1.0,Reptilia,VU,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Coral_Reef
+10,73,2024,,,,,Arabian_Sea,3.0,2.0,Mammalia,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Coral_Reef
+10,74,2015,3.0,0.0057278770381952,1.0,PVC,Arabian_Sea,,,,,,28.492,8.0546,120.8,0.4,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Coral_Reef
+10,75,2020,,,,,Arabian_Sea,1.0,1.0,Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,35.33,Open_Ocean
+10,75,2023,,,,,Arabian_Sea,1.0,1.0,Pisces,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,35.33,Open_Ocean
+10,75,2025,,,,,Arabian_Sea,4.0,3.0,Aves|Mammalia|Reptilia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Open_Ocean
+10,76,2015,,,,,Bay_of_Bengal,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Coral_Reef
+10,76,2016,,,,,Bay_of_Bengal,3.0,3.0,Aves|Mammalia,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,26.26,Coral_Reef
+10,76,2017,,,,,Bay_of_Bengal,5.0,4.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,26.26,Coral_Reef
+10,76,2018,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,26.26,Coral_Reef
+10,76,2019,,,,,Bay_of_Bengal,4.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,26.26,Coral_Reef
+10,76,2020,,,,,Bay_of_Bengal,7.0,4.0,Aves|Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,26.26,Coral_Reef
+10,76,2021,,,,,Bay_of_Bengal,4.0,4.0,Aves|Mammalia,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,26.26,Coral_Reef
+10,76,2022,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,26.26,Coral_Reef
+10,76,2023,,,,,Bay_of_Bengal,24.0,8.0,Aves|Mammalia,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,26.26,Coral_Reef
+10,76,2024,,,,,Bay_of_Bengal,41.0,8.0,Aves|Mammalia,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Coral_Reef
+10,76,2025,,,,,Bay_of_Bengal,80.0,18.0,Aves|Mammalia|Reptilia,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Coral_Reef
+10,77,2015,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Coral_Reef
+10,77,2017,,,,,Bay_of_Bengal,7.0,4.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,26.26,Coral_Reef
+10,77,2018,,,,,Bay_of_Bengal,4.0,2.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,26.26,Coral_Reef
+10,77,2020,,,,,Bay_of_Bengal,2.0,2.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,26.26,Coral_Reef
+10,77,2021,,,,,Bay_of_Bengal,2.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,26.26,Coral_Reef
+10,77,2022,,,,,Bay_of_Bengal,4.0,3.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,26.26,Coral_Reef
+10,77,2023,,,,,Bay_of_Bengal,12.0,5.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,26.26,Coral_Reef
+10,77,2024,,,,,Bay_of_Bengal,11.0,4.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Coral_Reef
+10,77,2025,,,,,Bay_of_Bengal,32.0,10.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Coral_Reef
+10,78,2025,,,,,Bay_of_Bengal,12.0,5.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Coral_Reef
+10,79,2024,,,,,Bay_of_Bengal,3.0,3.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Coral_Reef
+10,79,2025,,,,,Bay_of_Bengal,9.0,6.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Coral_Reef
+10,80,2016,1.0,0.0021381924379037,1.0,PVC,Bay_of_Bengal,,,,,,29.292,8.0472,119.0,0.2,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,26.26,Coral_Reef
+10,90,2015,3.0,0.0388894900172459,1.0,PS,Bay_of_Bengal,,,,,,28.492,8.0546,120.8,0.4,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Open_Ocean
+10,90,2024,,,,,Bay_of_Bengal,1.0,1.0,Mammalia,VU,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Open_Ocean
+10,91,2024,,,,,Andaman_Sea,2.0,1.0,Mammalia,VU,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,12.78,Open_Ocean
+10,92,2016,2.0,0.035257303138874,1.0,PP,Andaman_Sea,,,,,,28.1625,8.104000000000001,122.75,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,12.78,Coral_Reef
+10,92,2023,,,,,Andaman_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,12.78,Coral_Reef
+10,92,2024,,,,,Andaman_Sea,1.0,1.0,Mammalia,VU,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,12.78,Coral_Reef
+10,93,2024,,,,,Andaman_Sea,7.0,4.0,Aves|Pisces,LC/Not Evaluated,Occurrence|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,12.78,Coral_Reef
+10,94,2024,,,,,Andaman_Sea,1.0,1.0,Mammalia,DD,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,12.78,Coral_Reef
+11,72,2019,,,,,Arabian_Sea,5.0,2.0,Mammalia,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,35.33,Coral_Reef
+11,74,2015,4.0,0.0409401990217769,1.0,PS,Arabian_Sea,,,,,,28.732,8.048399999999999,101.2,0.2,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Coral_Reef
+11,74,2020,,,,,Arabian_Sea,1.0,1.0,Mammalia,LC/Not Evaluated,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,35.33,Coral_Reef
+11,74,2024,,,,,Arabian_Sea,1.0,1.0,Mammalia,LC/Not Evaluated,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Coral_Reef
+11,75,2018,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,35.33,Open_Ocean
+11,75,2019,,,,,Arabian_Sea,5.0,2.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,35.33,Open_Ocean
+11,75,2020,,,,,Arabian_Sea,5.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,35.33,Open_Ocean
+11,75,2021,,,,,Arabian_Sea,2.0,2.0,Aves|Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,35.33,Open_Ocean
+11,75,2022,,,,,Arabian_Sea,2.0,2.0,Aves|Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,35.33,Open_Ocean
+11,75,2023,,,,,Arabian_Sea,25.0,5.0,Aves|Mammalia,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,35.33,Open_Ocean
+11,75,2024,,,,,Arabian_Sea,68.0,11.0,Aves|Mammalia,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Open_Ocean
+11,75,2025,,,,,Arabian_Sea,105.0,13.0,Aves|Mammalia,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Open_Ocean
+11,76,2015,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Coral_Reef
+11,76,2016,,,,,Bay_of_Bengal,2.0,2.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,26.26,Coral_Reef
+11,76,2017,,,,,Bay_of_Bengal,5.0,4.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,26.26,Coral_Reef
+11,76,2018,,,,,Bay_of_Bengal,6.0,6.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,26.26,Coral_Reef
+11,76,2019,,,,,Bay_of_Bengal,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,26.26,Coral_Reef
+11,76,2020,,,,,Bay_of_Bengal,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,26.26,Coral_Reef
+11,76,2021,,,,,Bay_of_Bengal,6.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,26.26,Coral_Reef
+11,76,2022,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,26.26,Coral_Reef
+11,76,2023,,,,,Bay_of_Bengal,19.0,5.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,26.26,Coral_Reef
+11,76,2024,,,,,Bay_of_Bengal,33.0,9.0,Aves|Pisces,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Coral_Reef
+11,76,2025,,,,,Bay_of_Bengal,112.0,13.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Coral_Reef
+11,77,2017,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,26.26,Coral_Reef
+11,77,2022,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,26.26,Coral_Reef
+11,77,2023,,,,,Bay_of_Bengal,7.0,3.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,26.26,Coral_Reef
+11,77,2024,,,,,Bay_of_Bengal,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Coral_Reef
+11,77,2025,,,,,Bay_of_Bengal,50.0,10.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Coral_Reef
+11,78,2017,,,,,Bay_of_Bengal,5.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,26.26,Coral_Reef
+11,78,2018,,,,,Bay_of_Bengal,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,26.26,Coral_Reef
+11,78,2019,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,26.26,Coral_Reef
+11,78,2021,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,26.26,Coral_Reef
+11,78,2022,,,,,Bay_of_Bengal,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,26.26,Coral_Reef
+11,78,2023,,,,,Bay_of_Bengal,3.0,2.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,26.26,Coral_Reef
+11,78,2024,,,,,Bay_of_Bengal,7.0,5.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Coral_Reef
+11,78,2025,,,,,Bay_of_Bengal,35.0,9.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Coral_Reef
+11,79,2017,,,,,Bay_of_Bengal,3.0,2.0,Aves,LC,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,26.26,Coral_Reef
+11,79,2018,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,26.26,Coral_Reef
+11,79,2019,,,,,Bay_of_Bengal,3.0,3.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,26.26,Coral_Reef
+11,79,2020,,,,,Bay_of_Bengal,1.0,1.0,Pisces,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,26.26,Coral_Reef
+11,79,2021,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,26.26,Coral_Reef
+11,79,2022,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,26.26,Coral_Reef
+11,79,2023,,,,,Bay_of_Bengal,2.0,2.0,Aves|Pisces,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,26.26,Coral_Reef
+11,79,2024,,,,,Bay_of_Bengal,6.0,3.0,Aves|Pisces|Reptilia,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Coral_Reef
+11,79,2025,,,,,Bay_of_Bengal,12.0,6.0,Aves|Reptilia,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Coral_Reef
+11,80,2025,,,,,Bay_of_Bengal,1.0,1.0,Mammalia,LC/Not Evaluated,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Coral_Reef
+11,84,2015,7.0,0.0164927986790942,1.0,PET,Bay_of_Bengal,,,,,,27.908,8.051,133.0,0.2,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Open_Ocean
+11,90,2016,2.0,0.0309713164780191,1.0,PP,Bay_of_Bengal,,,,,,28.1625,8.104000000000001,122.75,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,26.26,Open_Ocean
+11,92,2016,8.0,0.0367417042988543,1.0,PE,Andaman_Sea,,,,,,26.782,8.080200000000001,124.0,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,12.78,Coral_Reef
+11,92,2019,,,,,Andaman_Sea,2.0,1.0,Mammalia,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,12.78,Coral_Reef
+11,92,2020,,,,,Andaman_Sea,1.0,1.0,Reptilia,VU,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,12.78,Coral_Reef
+11,92,2022,,,,,Andaman_Sea,6.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,12.78,Coral_Reef
+11,92,2023,,,,,Andaman_Sea,23.0,10.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,12.78,Coral_Reef
+11,92,2024,,,,,Andaman_Sea,52.0,7.0,Aves|Mammalia|Reptilia,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,12.78,Coral_Reef
+11,92,2025,,,,,Andaman_Sea,48.0,7.0,Aves|Reptilia,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,12.78,Coral_Reef
+11,93,2023,,,,,Andaman_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,12.78,Coral_Reef
+11,93,2024,,,,,Andaman_Sea,2.0,2.0,Mammalia|Reptilia,VU,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,12.78,Coral_Reef
+11,93,2025,,,,,Andaman_Sea,18.0,3.0,Aves|Reptilia,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,12.78,Coral_Reef
+12,70,2015,9.0,0.0023371895180265,1.0,PP,Arabian_Sea,,,,,,29.066000000000003,8.0338,114.0,0.2,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Open_Ocean
+12,73,2019,,,,,Arabian_Sea,1.0,1.0,Mammalia,LC/Not Evaluated,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,35.33,Coral_Reef
+12,74,2021,,,,,Arabian_Sea,3.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,35.33,Coral_Reef
+12,74,2022,,,,,Arabian_Sea,3.0,1.0,Mammalia,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,35.33,Coral_Reef
+12,74,2023,,,,,Arabian_Sea,5.0,3.0,Aves|Mammalia|Reptilia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,35.33,Coral_Reef
+12,74,2024,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Coral_Reef
+12,74,2025,,,,,Arabian_Sea,8.0,6.0,Aves|Mammalia,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Coral_Reef
+12,75,2015,7.0,0.0211141843217611,1.0,PS,Arabian_Sea,,,,,,27.908,8.051,133.0,0.2,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Open_Ocean
+12,75,2018,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,35.33,Open_Ocean
+12,75,2019,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,35.33,Open_Ocean
+12,75,2021,,,,,Arabian_Sea,4.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,35.33,Open_Ocean
+12,75,2022,,,,,Arabian_Sea,9.0,3.0,Aves|Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,35.33,Open_Ocean
+12,75,2023,,,,,Arabian_Sea,10.0,4.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,35.33,Open_Ocean
+12,75,2024,,,,,Arabian_Sea,20.0,9.0,Aves|Mammalia,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Open_Ocean
+12,75,2025,,,,,Arabian_Sea,30.0,13.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Open_Ocean
+12,76,2015,,,,,Bay_of_Bengal,6.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Coral_Reef
+12,76,2016,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,26.26,Coral_Reef
+12,76,2017,,,,,Bay_of_Bengal,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,26.26,Coral_Reef
+12,76,2018,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,26.26,Coral_Reef
+12,76,2022,,,,,Bay_of_Bengal,4.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,26.26,Coral_Reef
+12,76,2023,,,,,Bay_of_Bengal,12.0,6.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,26.26,Coral_Reef
+12,76,2024,,,,,Bay_of_Bengal,6.0,5.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Coral_Reef
+12,76,2025,,,,,Bay_of_Bengal,47.0,14.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Coral_Reef
+12,77,2015,5.0,0.0398569405307434,1.0,PVC,Bay_of_Bengal,2.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,28.5575,8.07275,116.5,0.0,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Coral_Reef
+12,77,2015,9.0,0.0224069487443397,1.0,PET,Bay_of_Bengal,2.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,29.066000000000003,8.0338,114.0,0.2,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Coral_Reef
+12,77,2016,,,,,Bay_of_Bengal,5.0,5.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,26.26,Coral_Reef
+12,77,2019,,,,,Bay_of_Bengal,7.0,4.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,26.26,Coral_Reef
+12,77,2020,,,,,Bay_of_Bengal,4.0,3.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,26.26,Coral_Reef
+12,77,2021,,,,,Bay_of_Bengal,3.0,3.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,26.26,Coral_Reef
+12,77,2022,,,,,Bay_of_Bengal,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,26.26,Coral_Reef
+12,77,2023,,,,,Bay_of_Bengal,23.0,8.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,26.26,Coral_Reef
+12,77,2024,,,,,Bay_of_Bengal,31.0,12.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Coral_Reef
+12,77,2025,,,,,Bay_of_Bengal,201.0,19.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Coral_Reef
+12,78,2021,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,26.26,Coral_Reef
+12,78,2023,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,26.26,Coral_Reef
+12,78,2024,,,,,Bay_of_Bengal,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Coral_Reef
+12,78,2025,,,,,Bay_of_Bengal,19.0,4.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Coral_Reef
+12,79,2015,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Coral_Reef
+12,79,2018,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,26.26,Coral_Reef
+12,79,2020,,,,,Bay_of_Bengal,3.0,2.0,Aves,LC,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,26.26,Coral_Reef
+12,79,2021,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,26.26,Coral_Reef
+12,79,2022,,,,,Bay_of_Bengal,3.0,1.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,26.26,Coral_Reef
+12,79,2023,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,26.26,Coral_Reef
+12,79,2024,,,,,Bay_of_Bengal,4.0,3.0,Aves|Mammalia,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Coral_Reef
+12,79,2025,,,,,Bay_of_Bengal,40.0,10.0,Aves|Reptilia,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Coral_Reef
+12,80,2016,,,,,Bay_of_Bengal,1.0,1.0,Mammalia,LC/Not Evaluated,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,26.26,Coral_Reef
+12,80,2017,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,26.26,Coral_Reef
+12,80,2018,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,26.26,Coral_Reef
+12,80,2019,,,,,Bay_of_Bengal,9.0,4.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,26.26,Coral_Reef
+12,80,2020,,,,,Bay_of_Bengal,24.0,6.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,26.26,Coral_Reef
+12,80,2021,,,,,Bay_of_Bengal,3.0,2.0,Aves|Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,26.26,Coral_Reef
+12,80,2022,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,26.26,Coral_Reef
+12,80,2023,,,,,Bay_of_Bengal,2.0,1.0,Mammalia,DD,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,26.26,Coral_Reef
+12,80,2024,,,,,Bay_of_Bengal,21.0,8.0,Aves|Mammalia|Reptilia,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Coral_Reef
+12,80,2025,,,,,Bay_of_Bengal,86.0,10.0,Aves|Mammalia|Reptilia,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Coral_Reef
+12,92,2023,,,,,Andaman_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,12.78,Coral_Reef
+12,92,2024,,,,,Andaman_Sea,3.0,2.0,Aves|Mammalia,VU,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,12.78,Coral_Reef
+12,92,2025,,,,,Andaman_Sea,5.0,3.0,Aves|Reptilia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,12.78,Coral_Reef
+12,93,2024,,,,,Andaman_Sea,1.0,1.0,Mammalia,VU,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,12.78,Coral_Reef
+12,93,2025,,,,,Andaman_Sea,3.0,3.0,Aves|Reptilia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,12.78,Coral_Reef
+13,65,2015,7.0,0.0407046769564775,2.0,PP|PS,Arabian_Sea,,,,,,27.908,8.051,133.0,0.2,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Open_Ocean
+13,66,2016,8.0,0.0333272907888576,1.0,PS,Arabian_Sea,,,,,,26.782,8.080200000000001,124.0,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,35.33,Open_Ocean
+13,67,2015,6.0,0.0027926290297742,1.0,PET,Arabian_Sea,,,,,,27.986,8.0716,120.6,0.2,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Open_Ocean
+13,72,2015,9.0,0.0103380398623121,2.0,PE|PP,Arabian_Sea,,,,,,29.066000000000003,8.0338,114.0,0.2,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Coral_Reef
+13,73,2015,3.0,0.0014508298515449,1.0,PE,Arabian_Sea,,,,,,28.492,8.0546,120.8,0.4,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Coral_Reef
+13,74,2016,,,,,Arabian_Sea,2.0,2.0,Aves|Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,35.33,Coral_Reef
+13,74,2017,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,35.33,Coral_Reef
+13,74,2018,,,,,Arabian_Sea,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,35.33,Coral_Reef
+13,74,2019,,,,,Arabian_Sea,3.0,3.0,Mammalia,LC/Not Evaluated,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,35.33,Coral_Reef
+13,74,2020,,,,,Arabian_Sea,2.0,2.0,Aves|Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,35.33,Coral_Reef
+13,74,2022,,,,,Arabian_Sea,1.0,1.0,Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,35.33,Coral_Reef
+13,74,2023,,,,,Arabian_Sea,1.0,1.0,Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,35.33,Coral_Reef
+13,74,2024,,,,,Arabian_Sea,2.0,2.0,Aves|Mammalia,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Coral_Reef
+13,74,2025,,,,,Arabian_Sea,20.0,10.0,Aves|Reptilia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Coral_Reef
+13,75,2015,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Open_Ocean
+13,75,2017,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,35.33,Open_Ocean
+13,75,2018,,,,,Arabian_Sea,2.0,2.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,35.33,Open_Ocean
+13,75,2023,,,,,Arabian_Sea,3.0,3.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,35.33,Open_Ocean
+13,75,2024,,,,,Arabian_Sea,11.0,9.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Open_Ocean
+13,75,2025,,,,,Arabian_Sea,13.0,4.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Open_Ocean
+13,76,2025,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+13,77,2015,,,,,Bay_of_Bengal,3.0,3.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Open_Ocean
+13,77,2018,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,26.26,Open_Ocean
+13,77,2019,,,,,Bay_of_Bengal,4.0,2.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,26.26,Open_Ocean
+13,77,2020,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,26.26,Open_Ocean
+13,77,2021,,,,,Bay_of_Bengal,2.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,26.26,Open_Ocean
+13,77,2022,,,,,Bay_of_Bengal,3.0,2.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,26.26,Open_Ocean
+13,77,2023,,,,,Bay_of_Bengal,9.0,4.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,26.26,Open_Ocean
+13,77,2024,,,,,Bay_of_Bengal,19.0,9.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Open_Ocean
+13,77,2025,,,,,Bay_of_Bengal,80.0,14.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+13,78,2024,,,,,Bay_of_Bengal,2.0,1.0,Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Open_Ocean
+13,78,2025,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+13,79,2022,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,26.26,Open_Ocean
+13,79,2023,,,,,Bay_of_Bengal,5.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,26.26,Open_Ocean
+13,79,2024,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Open_Ocean
+13,79,2025,,,,,Bay_of_Bengal,5.0,4.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+13,80,2016,3.0,0.0414644520474999,1.0,PS,Bay_of_Bengal,6.0,6.0,Aves|Mammalia,LC/Not Evaluated,Human_Observation|Scientific,28.316000000000003,8.044799999999999,122.4,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,26.26,Mangrove
+13,80,2017,,,,,Bay_of_Bengal,1.0,1.0,Reptilia,VU,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,26.26,Mangrove
+13,80,2018,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,26.26,Mangrove
+13,80,2020,,,,,Bay_of_Bengal,2.0,2.0,Aves|Mammalia,LC/Not Evaluated,Citizen_Science|Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,26.26,Mangrove
+13,80,2021,,,,,Bay_of_Bengal,6.0,1.0,Pisces,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,26.26,Mangrove
+13,80,2022,,,,,Bay_of_Bengal,8.0,3.0,Aves|Pisces,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,26.26,Mangrove
+13,80,2023,,,,,Bay_of_Bengal,2.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,26.26,Mangrove
+13,80,2024,,,,,Bay_of_Bengal,15.0,4.0,Aves|Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Mangrove
+13,80,2025,,,,,Bay_of_Bengal,56.0,10.0,Aves|Reptilia,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Mangrove
+13,81,2015,6.0,0.0009006050807976,1.0,PET,Bay_of_Bengal,,,,,,27.986,8.0716,120.6,0.2,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Mangrove
+13,83,2015,1.0,0.00738028356895,1.0,PVC,Bay_of_Bengal,,,,,,29.110000000000003,8.006,103.2,0.0,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Open_Ocean
+13,92,2024,,,,,Andaman_Sea,1.0,1.0,Mammalia,VU,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,12.78,Coral_Reef
+13,94,2016,4.0,0.0241770017431623,1.0,PVC,Andaman_Sea,,,,,,28.68,8.05475,114.0,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,12.78,Coral_Reef
+14,65,2015,11.0,0.0305403560998601,1.0,PS,Arabian_Sea,,,,,,29.31,8.07125,105.75,0.25,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Open_Ocean
+14,65,2016,3.0,0.0191497481949882,1.0,PVC,Arabian_Sea,,,,,,28.316000000000003,8.044799999999999,122.4,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,35.33,Open_Ocean
+14,72,2015,9.0,0.0324824609002054,1.0,PP,Arabian_Sea,,,,,,29.066000000000003,8.0338,114.0,0.2,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Coral_Reef
+14,73,2015,11.0,0.0338888325296815,1.0,PVC,Arabian_Sea,,,,,,29.31,8.07125,105.75,0.25,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Coral_Reef
+14,74,2016,,,,,Arabian_Sea,2.0,1.0,Mammalia,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,35.33,Coral_Reef
+14,74,2018,,,,,Arabian_Sea,1.0,1.0,Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,35.33,Coral_Reef
+14,74,2020,,,,,Arabian_Sea,1.0,1.0,Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,35.33,Coral_Reef
+14,74,2022,,,,,Arabian_Sea,3.0,1.0,Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,35.33,Coral_Reef
+14,74,2023,,,,,Arabian_Sea,2.0,1.0,Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,35.33,Coral_Reef
+14,74,2024,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Coral_Reef
+14,74,2025,,,,,Arabian_Sea,9.0,7.0,Aves|Mammalia|Reptilia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Coral_Reef
+14,75,2015,,,,,Arabian_Sea,2.0,1.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Open_Ocean
+14,75,2019,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,35.33,Open_Ocean
+14,75,2025,,,,,Arabian_Sea,8.0,6.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Open_Ocean
+14,76,2025,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+14,77,2015,1.0,0.0276386106680513,1.0,PS,Bay_of_Bengal,,,,,,29.110000000000003,8.006,103.2,0.0,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Open_Ocean
+14,77,2025,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+14,79,2020,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,26.26,Open_Ocean
+14,79,2024,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Open_Ocean
+14,80,2024,,,,,Bay_of_Bengal,5.0,3.0,Mammalia|Reptilia,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Mangrove
+14,80,2025,,,,,Bay_of_Bengal,8.0,2.0,Aves|Reptilia,VU,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Mangrove
+14,82,2015,10.0,0.0134739146930022,1.0,PVC,Bay_of_Bengal,,,,,,28.610000000000003,8.0198,124.6,0.0,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Mangrove
+14,87,2015,10.0,0.0373564363061571,1.0,PET,Bay_of_Bengal,,,,,,28.610000000000003,8.0198,124.6,0.0,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Open_Ocean
+14,92,2015,2.0,0.0252175312136712,1.0,PET,Andaman_Sea,,,,,,27.8575,8.02175,123.0,0.0,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,12.78,Coral_Reef
+15,67,2016,6.0,0.0060541963103415,1.0,PS,Arabian_Sea,,,,,,28.44,8.0762,125.2,0.2,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,35.33,Open_Ocean
+15,68,2015,1.0,0.025508207118603,1.0,PS,Arabian_Sea,,,,,,29.110000000000003,8.006,103.2,0.0,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Open_Ocean
+15,73,2015,4.0,0.0275878258551502,1.0,PE,Arabian_Sea,,,,,,28.732,8.048399999999999,101.2,0.2,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Coral_Reef
+15,73,2016,,,,,Arabian_Sea,2.0,1.0,Mammalia,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,35.33,Coral_Reef
+15,73,2018,,,,,Arabian_Sea,2.0,1.0,Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,35.33,Coral_Reef
+15,73,2019,,,,,Arabian_Sea,5.0,1.0,Mammalia,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,35.33,Coral_Reef
+15,73,2020,,,,,Arabian_Sea,2.0,2.0,Aves|Mammalia,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,35.33,Coral_Reef
+15,73,2021,,,,,Arabian_Sea,2.0,2.0,Aves|Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,35.33,Coral_Reef
+15,73,2022,,,,,Arabian_Sea,2.0,2.0,Mammalia,DD,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,35.33,Coral_Reef
+15,73,2023,,,,,Arabian_Sea,7.0,2.0,Aves|Mammalia,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,35.33,Coral_Reef
+15,73,2024,,,,,Arabian_Sea,32.0,12.0,Aves|Mammalia,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Coral_Reef
+15,73,2025,,,,,Arabian_Sea,168.0,18.0,Aves|Mammalia|Reptilia,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Coral_Reef
+15,74,2015,,,,,Arabian_Sea,3.0,2.0,Aves|Mammalia,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Coral_Reef
+15,74,2018,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,35.33,Coral_Reef
+15,74,2019,,,,,Arabian_Sea,7.0,3.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,35.33,Coral_Reef
+15,74,2020,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,35.33,Coral_Reef
+15,74,2022,,,,,Arabian_Sea,4.0,4.0,Aves|Mammalia,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,35.33,Coral_Reef
+15,74,2023,,,,,Arabian_Sea,4.0,4.0,Aves|Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,35.33,Coral_Reef
+15,74,2024,,,,,Arabian_Sea,13.0,7.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Coral_Reef
+15,74,2025,,,,,Arabian_Sea,41.0,11.0,Aves|Mammalia,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Coral_Reef
+15,75,2015,4.0,0.0400540987939865,1.0,PET,Arabian_Sea,,,,,,28.732,8.048399999999999,101.2,0.2,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Open_Ocean
+15,75,2017,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,35.33,Open_Ocean
+15,75,2018,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,35.33,Open_Ocean
+15,75,2019,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,35.33,Open_Ocean
+15,76,2025,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+15,78,2015,7.0,0.0288073717785606,1.0,PVC,Bay_of_Bengal,,,,,,27.908,8.051,133.0,0.2,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Open_Ocean
+15,78,2016,,,,,Bay_of_Bengal,2.0,1.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,26.26,Open_Ocean
+15,78,2017,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,26.26,Open_Ocean
+15,78,2021,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,26.26,Open_Ocean
+15,78,2022,,,,,Bay_of_Bengal,2.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,26.26,Open_Ocean
+15,80,2024,,,,,Bay_of_Bengal,4.0,1.0,Mammalia,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Mangrove
+15,80,2025,,,,,Bay_of_Bengal,12.0,4.0,Aves|Reptilia,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Mangrove
+15,83,2016,4.0,0.0341198565717995,1.0,PP,Bay_of_Bengal,,,,,,28.68,8.05475,114.0,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,26.26,Open_Ocean
+15,84,2015,3.0,0.0179282319126332,1.0,PET,Bay_of_Bengal,,,,,,28.492,8.0546,120.8,0.4,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Open_Ocean
+15,85,2016,6.0,0.0153828549672638,1.0,PP,Bay_of_Bengal,,,,,,28.44,8.0762,125.2,0.2,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,26.26,Open_Ocean
+15,90,2024,,,,,Bay_of_Bengal,4.0,2.0,Mammalia,DD,Occurrence|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Open_Ocean
+16,73,2018,,,,,Arabian_Sea,1.0,1.0,Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,35.33,Open_Ocean
+16,73,2021,,,,,Arabian_Sea,3.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,35.33,Open_Ocean
+16,73,2024,,,,,Arabian_Sea,2.0,2.0,Aves|Reptilia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Open_Ocean
+16,73,2025,,,,,Arabian_Sea,6.0,3.0,Aves|Reptilia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Open_Ocean
+16,74,2023,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,35.33,Open_Ocean
+16,74,2025,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Open_Ocean
+16,75,2015,9.0,0.0353076797292776,1.0,PS,Arabian_Sea,,,,,,29.066000000000003,8.0338,114.0,0.2,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Open_Ocean
+16,75,2025,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Open_Ocean
+16,77,2024,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Open_Ocean
+16,77,2025,,,,,Bay_of_Bengal,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+16,78,2017,,,,,Bay_of_Bengal,2.0,2.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,26.26,Open_Ocean
+16,78,2022,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,26.26,Open_Ocean
+16,78,2025,,,,,Bay_of_Bengal,4.0,2.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+16,80,2015,1.0,0.0344927871381095,1.0,PVC,Bay_of_Bengal,,,,,,29.110000000000003,8.006,103.2,0.0,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Mangrove
+16,80,2022,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,26.26,Mangrove
+16,80,2023,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,26.26,Mangrove
+16,80,2024,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Mangrove
+16,80,2025,,,,,Bay_of_Bengal,12.0,5.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Mangrove
+16,81,2016,4.0,0.0382993022120671,1.0,PS,Bay_of_Bengal,,,,,,28.68,8.05475,114.0,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,26.26,Mangrove
+16,81,2023,,,,,Bay_of_Bengal,3.0,2.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,26.26,Mangrove
+16,81,2024,,,,,Bay_of_Bengal,2.0,1.0,Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Mangrove
+16,81,2025,,,,,Bay_of_Bengal,15.0,5.0,Aves|Mammalia|Reptilia,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Mangrove
+16,82,2020,,,,,Bay_of_Bengal,1.0,1.0,Mammalia,LC/Not Evaluated,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,26.26,Mangrove
+16,82,2023,,,,,Bay_of_Bengal,1.0,1.0,Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,26.26,Mangrove
+16,82,2024,,,,,Bay_of_Bengal,4.0,3.0,Aves|Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Mangrove
+16,84,2015,5.0,0.0047756038906798,1.0,PE,Bay_of_Bengal,,,,,,28.5575,8.07275,116.5,0.0,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Open_Ocean
+16,90,2016,1.0,0.0312949997843768,1.0,PE,Bay_of_Bengal,,,,,,29.292,8.0472,119.0,0.2,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,26.26,Open_Ocean
+16,93,2015,8.0,0.0257277920157882,1.0,PP,Andaman_Sea,,,,,,29.325,8.03725,118.75,0.5,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,12.78,Open_Ocean
+17,70,2015,8.0,0.0380440099484179,1.0,PS,Arabian_Sea,,,,,,29.325,8.03725,118.75,0.5,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Open_Ocean
+17,70,2016,9.0,0.0311715365086972,1.0,PVC,Arabian_Sea,,,,,,27.562,8.126999999999999,136.0,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,35.33,Open_Ocean
+17,71,2015,1.0,0.0616883510115482,2.0,PET|PS,Arabian_Sea,,,,,,29.110000000000003,8.006,103.2,0.0,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Open_Ocean
+17,71,2015,12.0,0.0001537419558669,1.0,PET,Arabian_Sea,,,,,,27.054,8.0694,131.8,0.2,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Open_Ocean
+17,73,2016,4.0,0.015496640489003,1.0,PE,Arabian_Sea,1.0,1.0,Reptilia,VU,Scientific,28.68,8.05475,114.0,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,35.33,Open_Ocean
+17,73,2017,,,,,Arabian_Sea,1.0,1.0,Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,35.33,Open_Ocean
+17,73,2020,,,,,Arabian_Sea,1.0,1.0,Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,35.33,Open_Ocean
+17,73,2021,,,,,Arabian_Sea,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,35.33,Open_Ocean
+17,73,2022,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,35.33,Open_Ocean
+17,73,2023,,,,,Arabian_Sea,2.0,2.0,Mammalia|Pisces,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,35.33,Open_Ocean
+17,73,2024,,,,,Arabian_Sea,1.0,1.0,Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Open_Ocean
+17,73,2025,,,,,Arabian_Sea,18.0,8.0,Aves|Reptilia,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Open_Ocean
+17,74,2016,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,35.33,Open_Ocean
+17,74,2022,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,35.33,Open_Ocean
+17,74,2024,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Open_Ocean
+17,74,2025,,,,,Arabian_Sea,4.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Open_Ocean
+17,75,2015,,,,,Arabian_Sea,2.0,1.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Open_Ocean
+17,75,2016,8.0,0.015948219031812,1.0,PET,Arabian_Sea,,,,,,26.782,8.080200000000001,124.0,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,35.33,Open_Ocean
+17,75,2024,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Open_Ocean
+17,75,2025,,,,,Arabian_Sea,3.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Open_Ocean
+17,77,2020,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,26.26,Open_Ocean
+17,77,2021,,,,,Bay_of_Bengal,2.0,2.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,26.26,Open_Ocean
+17,77,2023,,,,,Bay_of_Bengal,4.0,3.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,26.26,Open_Ocean
+17,77,2025,,,,,Bay_of_Bengal,9.0,5.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+17,78,2023,,,,,Bay_of_Bengal,4.0,3.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,26.26,Open_Ocean
+17,78,2024,,,,,Bay_of_Bengal,9.0,7.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Open_Ocean
+17,78,2025,,,,,Bay_of_Bengal,35.0,9.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+17,79,2015,11.0,0.0119217759396215,1.0,PVC,Bay_of_Bengal,,,,,,29.31,8.07125,105.75,0.25,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Open_Ocean
+17,80,2025,,,,,Bay_of_Bengal,5.0,4.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+17,81,2017,,,,,Bay_of_Bengal,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,26.26,Open_Ocean
+17,81,2024,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Open_Ocean
+17,81,2025,,,,,Bay_of_Bengal,9.0,7.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+17,82,2015,3.0,0.037729351325687,1.0,PE,Bay_of_Bengal,,,,,,28.492,8.0546,120.8,0.4,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Open_Ocean
+17,82,2024,,,,,Bay_of_Bengal,4.0,2.0,Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Open_Ocean
+17,82,2025,,,,,Bay_of_Bengal,1.0,1.0,Reptilia,VU,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+17,83,2016,,,,,Bay_of_Bengal,3.0,1.0,Mammalia,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,26.26,Open_Ocean
+17,83,2017,,,,,Bay_of_Bengal,3.0,1.0,Pisces,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,26.26,Open_Ocean
+17,83,2018,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,26.26,Open_Ocean
+17,83,2020,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,26.26,Open_Ocean
+17,83,2021,,,,,Bay_of_Bengal,2.0,2.0,Pisces|Reptilia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,26.26,Open_Ocean
+17,83,2022,,,,,Bay_of_Bengal,5.0,3.0,Aves|Mammalia|Reptilia,VU,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,26.26,Open_Ocean
+17,83,2023,,,,,Bay_of_Bengal,9.0,4.0,Aves|Mammalia|Pisces,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,26.26,Open_Ocean
+17,83,2024,,,,,Bay_of_Bengal,15.0,5.0,Aves|Mammalia|Pisces|Reptilia,VU,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Open_Ocean
+17,83,2025,,,,,Bay_of_Bengal,60.0,9.0,Aves|Pisces|Reptilia,VU,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+17,84,2016,7.0,0.0273567319745587,1.0,PVC,Bay_of_Bengal,,,,,,28.0475,8.072,125.25,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,26.26,Open_Ocean
+17,84,2024,,,,,Bay_of_Bengal,4.0,2.0,Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Open_Ocean
+17,88,2016,5.0,0.0382908650601408,1.0,PET,Bay_of_Bengal,,,,,,28.52,8.103399999999999,123.0,0.4,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,26.26,Open_Ocean
+17,91,2015,10.0,0.0231796706445704,1.0,PVC,Andaman_Sea,,,,,,28.610000000000003,8.0198,124.6,0.0,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,12.78,Open_Ocean
+17,92,2015,12.0,0.0213313416315521,1.0,PE,Andaman_Sea,,,,,,27.054,8.0694,131.8,0.2,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,12.78,Open_Ocean
+17,93,2016,4.0,0.0335413662253792,1.0,PS,Andaman_Sea,,,,,,28.68,8.05475,114.0,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,12.78,Open_Ocean
+18,72,2015,,,,,Arabian_Sea,2.0,2.0,Aves|Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Open_Ocean
+18,72,2017,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,35.33,Open_Ocean
+18,72,2018,,,,,Arabian_Sea,4.0,3.0,Aves|Pisces,CR,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,35.33,Open_Ocean
+18,72,2019,,,,,Arabian_Sea,2.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,35.33,Open_Ocean
+18,72,2020,,,,,Arabian_Sea,6.0,2.0,Aves|Pisces,CR,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,35.33,Open_Ocean
+18,72,2021,,,,,Arabian_Sea,2.0,2.0,Aves|Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,35.33,Open_Ocean
+18,72,2022,,,,,Arabian_Sea,10.0,3.0,Mammalia|Pisces,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,35.33,Open_Ocean
+18,72,2023,,,,,Arabian_Sea,4.0,2.0,Pisces,CR,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,35.33,Open_Ocean
+18,72,2024,,,,,Arabian_Sea,64.0,8.0,Aves|Mammalia|Pisces,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Open_Ocean
+18,72,2025,,,,,Arabian_Sea,39.0,13.0,Aves|Mammalia|Pisces|Reptilia,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Open_Ocean
+18,73,2015,1.0,0.0170194284072207,1.0,PVC,Arabian_Sea,2.0,2.0,Aves,LC/Not Evaluated,Scientific,29.110000000000003,8.006,103.2,0.0,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Open_Ocean
+18,73,2016,,,,,Arabian_Sea,2.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,35.33,Open_Ocean
+18,73,2017,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,35.33,Open_Ocean
+18,73,2018,,,,,Arabian_Sea,6.0,4.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,35.33,Open_Ocean
+18,73,2020,,,,,Arabian_Sea,8.0,6.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,35.33,Open_Ocean
+18,73,2021,,,,,Arabian_Sea,13.0,8.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,35.33,Open_Ocean
+18,73,2023,,,,,Arabian_Sea,6.0,4.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,35.33,Open_Ocean
+18,73,2024,,,,,Arabian_Sea,22.0,7.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Open_Ocean
+18,73,2025,,,,,Arabian_Sea,75.0,17.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Open_Ocean
+18,74,2015,,,,,Arabian_Sea,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Open_Ocean
+18,74,2016,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,35.33,Open_Ocean
+18,74,2018,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,35.33,Open_Ocean
+18,74,2019,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,35.33,Open_Ocean
+18,74,2020,,,,,Arabian_Sea,8.0,7.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,35.33,Open_Ocean
+18,74,2021,,,,,Arabian_Sea,9.0,4.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,35.33,Open_Ocean
+18,74,2022,,,,,Arabian_Sea,9.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,35.33,Open_Ocean
+18,74,2023,,,,,Arabian_Sea,28.0,6.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,35.33,Open_Ocean
+18,74,2024,,,,,Arabian_Sea,22.0,6.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Open_Ocean
+18,74,2025,,,,,Arabian_Sea,85.0,10.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Open_Ocean
+18,75,2024,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Open_Ocean
+18,75,2025,,,,,Arabian_Sea,4.0,2.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Open_Ocean
+18,76,2024,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Open_Ocean
+18,77,2025,,,,,Bay_of_Bengal,5.0,3.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+18,78,2023,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,26.26,Open_Ocean
+18,78,2025,,,,,Bay_of_Bengal,2.0,1.0,Aves,LC,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+18,79,2018,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,26.26,Open_Ocean
+18,79,2024,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Open_Ocean
+18,79,2025,,,,,Bay_of_Bengal,10.0,5.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+18,80,2016,6.0,0.0017135586885029,1.0,PP,Bay_of_Bengal,,,,,,28.44,8.0762,125.2,0.2,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,26.26,Open_Ocean
+18,80,2025,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+18,81,2025,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+18,82,2016,8.0,0.0201758979670877,1.0,PP,Bay_of_Bengal,,,,,,26.782,8.080200000000001,124.0,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,26.26,Open_Ocean
+18,82,2018,,,,,Bay_of_Bengal,2.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,26.26,Open_Ocean
+18,82,2025,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+18,83,2021,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,26.26,Open_Ocean
+18,83,2024,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Open_Ocean
+18,83,2025,,,,,Bay_of_Bengal,15.0,9.0,Aves|Reptilia,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+18,84,2020,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,26.26,Open_Ocean
+18,84,2023,,,,,Bay_of_Bengal,1.0,1.0,Reptilia,VU,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,26.26,Open_Ocean
+18,84,2025,,,,,Bay_of_Bengal,5.0,3.0,Aves|Reptilia,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+18,91,2016,4.0,0.0136029921345047,1.0,PET,Andaman_Sea,,,,,,28.68,8.05475,114.0,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,12.78,Open_Ocean
+19,65,2016,3.0,0.0272710623513636,1.0,PS,Arabian_Sea,,,,,,28.316000000000003,8.044799999999999,122.4,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,35.33,Open_Ocean
+19,68,2015,2.0,0.0404284647286782,1.0,PP,Arabian_Sea,,,,,,27.8575,8.02175,123.0,0.0,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Open_Ocean
+19,68,2015,11.0,0.0035706793345004,1.0,PS,Arabian_Sea,,,,,,29.31,8.07125,105.75,0.25,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Open_Ocean
+19,72,2017,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,35.33,Mangrove
+19,72,2018,,,,,Arabian_Sea,2.0,2.0,Aves|Pisces,CR,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,35.33,Mangrove
+19,72,2019,,,,,Arabian_Sea,12.0,4.0,Aves|Mammalia|Pisces,CR,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,35.33,Mangrove
+19,72,2020,,,,,Arabian_Sea,7.0,2.0,Mammalia|Pisces,CR,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,35.33,Mangrove
+19,72,2021,,,,,Arabian_Sea,5.0,3.0,Aves|Pisces,CR,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,35.33,Mangrove
+19,72,2022,,,,,Arabian_Sea,5.0,5.0,Aves|Mammalia|Pisces,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,35.33,Mangrove
+19,72,2023,,,,,Arabian_Sea,7.0,4.0,Aves|Pisces,CR,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,35.33,Mangrove
+19,72,2024,,,,,Arabian_Sea,7.0,4.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Mangrove
+19,72,2025,,,,,Arabian_Sea,49.0,14.0,Aves|Pisces,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Mangrove
+19,73,2015,,,,,Arabian_Sea,3.0,3.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Mangrove
+19,73,2016,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,35.33,Mangrove
+19,73,2017,,,,,Arabian_Sea,2.0,2.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,35.33,Mangrove
+19,73,2018,,,,,Arabian_Sea,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,35.33,Mangrove
+19,73,2019,,,,,Arabian_Sea,3.0,2.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,35.33,Mangrove
+19,73,2020,,,,,Arabian_Sea,13.0,5.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,35.33,Mangrove
+19,73,2021,,,,,Arabian_Sea,15.0,5.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,35.33,Mangrove
+19,73,2022,,,,,Arabian_Sea,4.0,2.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,35.33,Mangrove
+19,73,2023,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,35.33,Mangrove
+19,73,2024,,,,,Arabian_Sea,6.0,5.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Mangrove
+19,73,2025,,,,,Arabian_Sea,90.0,17.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Mangrove
+19,74,2016,5.0,0.0147471813557795,1.0,PS,Arabian_Sea,,,,,,28.52,8.103399999999999,123.0,0.4,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,35.33,Open_Ocean
+19,74,2023,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,35.33,Open_Ocean
+19,75,2020,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,35.33,Open_Ocean
+19,75,2025,,,,,Arabian_Sea,5.0,3.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Open_Ocean
+19,76,2025,,,,,Bay_of_Bengal,2.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+19,77,2025,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+19,78,2021,,,,,Bay_of_Bengal,2.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,26.26,Open_Ocean
+19,78,2025,,,,,Bay_of_Bengal,7.0,3.0,Aves,LC,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+19,79,2025,,,,,Bay_of_Bengal,21.0,8.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+19,80,2025,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+19,82,2018,,,,,Bay_of_Bengal,2.0,2.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,26.26,Open_Ocean
+19,82,2023,,,,,Bay_of_Bengal,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,26.26,Open_Ocean
+19,82,2024,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Open_Ocean
+19,82,2025,,,,,Bay_of_Bengal,4.0,4.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+19,83,2016,1.0,0.0038817112746943,1.0,PE,Bay_of_Bengal,,,,,,29.292,8.0472,119.0,0.2,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,26.26,Open_Ocean
+19,83,2023,,,,,Bay_of_Bengal,5.0,3.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,26.26,Open_Ocean
+19,83,2024,,,,,Bay_of_Bengal,10.0,5.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Open_Ocean
+19,83,2025,,,,,Bay_of_Bengal,16.0,10.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+19,84,2024,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Open_Ocean
+19,84,2025,,,,,Bay_of_Bengal,12.0,3.0,Aves|Reptilia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+19,85,2015,11.0,0.0071127004675568,1.0,PE,Bay_of_Bengal,,,,,,29.31,8.07125,105.75,0.25,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Open_Ocean
+19,85,2016,,,,,Bay_of_Bengal,5.0,4.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,26.26,Open_Ocean
+19,85,2018,,,,,Bay_of_Bengal,1.0,1.0,Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,26.26,Open_Ocean
+19,85,2022,,,,,Bay_of_Bengal,2.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,26.26,Open_Ocean
+19,85,2023,,,,,Bay_of_Bengal,9.0,2.0,Aves|Mammalia,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,26.26,Open_Ocean
+19,85,2024,,,,,Bay_of_Bengal,17.0,6.0,Aves|Mammalia,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Open_Ocean
+19,85,2025,,,,,Bay_of_Bengal,45.0,10.0,Aves|Mammalia|Reptilia,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+19,86,2025,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+19,91,2016,4.0,0.0400166218031608,1.0,PE,Andaman_Sea,,,,,,28.68,8.05475,114.0,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,12.78,Open_Ocean
+19,92,2015,5.0,0.0309719199916694,1.0,PVC,Andaman_Sea,,,,,,28.5575,8.07275,116.5,0.0,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,12.78,Open_Ocean
+19,93,2016,8.0,0.0201520902240617,1.0,PET,Andaman_Sea,,,,,,26.782,8.080200000000001,124.0,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,12.78,Open_Ocean
+20,70,2015,1.0,0.0356858290569234,1.0,PE,Arabian_Sea,,,,,,29.110000000000003,8.006,103.2,0.0,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Open_Ocean
+20,70,2016,8.0,0.0153781277085154,1.0,PE,Arabian_Sea,,,,,,26.782,8.080200000000001,124.0,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,35.33,Open_Ocean
+20,70,2022,,,,,Arabian_Sea,1.0,1.0,Pisces,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,35.33,Open_Ocean
+20,70,2024,,,,,Arabian_Sea,3.0,1.0,Aves,LC/Not Evaluated,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Open_Ocean
+20,70,2025,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Open_Ocean
+20,71,2024,,,,,Arabian_Sea,3.0,1.0,Aves,LC/Not Evaluated,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Open_Ocean
+20,71,2025,,,,,Arabian_Sea,3.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Open_Ocean
+20,72,2024,,,,,Arabian_Sea,2.0,1.0,Pisces,CR,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Mangrove
+20,72,2025,,,,,Arabian_Sea,5.0,4.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Mangrove
+20,73,2022,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,35.33,Mangrove
+20,73,2025,,,,,Arabian_Sea,26.0,10.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Mangrove
+20,74,2019,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,35.33,Open_Ocean
+20,74,2024,,,,,Arabian_Sea,4.0,1.0,Aves,LC/Not Evaluated,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Open_Ocean
+20,74,2025,,,,,Arabian_Sea,10.0,1.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Open_Ocean
+20,75,2016,3.0,0.0036003753625599,1.0,PS,Arabian_Sea,,,,,,28.316000000000003,8.044799999999999,122.4,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,35.33,Open_Ocean
+20,75,2024,,,,,Arabian_Sea,3.0,2.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Open_Ocean
+20,75,2025,,,,,Arabian_Sea,25.0,9.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Open_Ocean
+20,76,2024,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Open_Ocean
+20,77,2015,1.0,0.0063695377545718,1.0,PP,Bay_of_Bengal,,,,,,29.110000000000003,8.006,103.2,0.0,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Open_Ocean
+20,77,2016,4.0,0.0086518353269198,1.0,PP,Bay_of_Bengal,,,,,,28.68,8.05475,114.0,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,26.26,Open_Ocean
+20,77,2021,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,26.26,Open_Ocean
+20,77,2025,,,,,Bay_of_Bengal,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+20,78,2015,3.0,0.0108697871250912,1.0,PP,Bay_of_Bengal,2.0,2.0,Aves,LC/Not Evaluated,Scientific,28.492,8.0546,120.8,0.4,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Open_Ocean
+20,78,2024,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Open_Ocean
+20,78,2025,,,,,Bay_of_Bengal,3.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+20,79,2017,,,,,Bay_of_Bengal,3.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,26.26,Open_Ocean
+20,79,2019,,,,,Bay_of_Bengal,3.0,3.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,26.26,Open_Ocean
+20,79,2021,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,26.26,Open_Ocean
+20,79,2022,,,,,Bay_of_Bengal,4.0,4.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,26.26,Open_Ocean
+20,79,2024,,,,,Bay_of_Bengal,5.0,2.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Open_Ocean
+20,79,2025,,,,,Bay_of_Bengal,17.0,10.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+20,80,2016,3.0,0.0092484320534589,1.0,PVC,Bay_of_Bengal,,,,,,28.316000000000003,8.044799999999999,122.4,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,26.26,Open_Ocean
+20,81,2017,,,,,Bay_of_Bengal,5.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,26.26,Open_Ocean
+20,81,2019,,,,,Bay_of_Bengal,6.0,6.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,26.26,Open_Ocean
+20,81,2020,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,26.26,Open_Ocean
+20,81,2023,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,26.26,Open_Ocean
+20,81,2024,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Open_Ocean
+20,81,2025,,,,,Bay_of_Bengal,2.0,2.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+20,82,2016,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,26.26,Open_Ocean
+20,82,2024,,,,,Bay_of_Bengal,4.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Open_Ocean
+20,83,2023,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,26.26,Open_Ocean
+20,83,2024,,,,,Bay_of_Bengal,2.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Open_Ocean
+20,83,2025,,,,,Bay_of_Bengal,7.0,4.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+20,84,2025,,,,,Bay_of_Bengal,6.0,5.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+20,85,2020,,,,,Bay_of_Bengal,1.0,1.0,Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,26.26,Open_Ocean
+20,85,2021,,,,,Bay_of_Bengal,4.0,3.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,26.26,Open_Ocean
+20,85,2023,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,26.26,Open_Ocean
+20,85,2024,,,,,Bay_of_Bengal,5.0,4.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Open_Ocean
+20,85,2025,,,,,Bay_of_Bengal,36.0,11.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+20,86,2025,,,,,Bay_of_Bengal,18.0,8.0,Aves|Reptilia,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+20,87,2024,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Open_Ocean
+20,93,2015,4.0,0.0358753308822897,1.0,PE,Andaman_Sea,,,,,,28.732,8.048399999999999,101.2,0.2,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,12.78,Open_Ocean
+21,67,2015,5.0,0.0351213782220603,1.0,PVC,Arabian_Sea,,,,,,28.5575,8.07275,116.5,0.0,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Open_Ocean
+21,69,2017,,,,,Arabian_Sea,2.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,35.33,Open_Ocean
+21,69,2022,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,35.33,Open_Ocean
+21,69,2024,,,,,Arabian_Sea,20.0,2.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Open_Ocean
+21,69,2025,,,,,Arabian_Sea,2.0,2.0,Aves|Reptilia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Open_Ocean
+21,70,2018,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,35.33,Open_Ocean
+21,70,2023,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,35.33,Open_Ocean
+21,70,2024,,,,,Arabian_Sea,8.0,4.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Open_Ocean
+21,70,2025,,,,,Arabian_Sea,6.0,4.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Open_Ocean
+21,71,2020,,,,,Arabian_Sea,1.0,1.0,Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,35.33,Open_Ocean
+21,71,2021,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,35.33,Open_Ocean
+21,71,2022,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,35.33,Open_Ocean
+21,71,2024,,,,,Arabian_Sea,8.0,1.0,Aves,LC/Not Evaluated,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Open_Ocean
+21,71,2025,,,,,Arabian_Sea,6.0,4.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Open_Ocean
+21,72,2016,5.0,0.0269060844110993,1.0,PET,Arabian_Sea,,,,,,28.52,8.103399999999999,123.0,0.4,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,35.33,Mangrove
+21,72,2020,,,,,Arabian_Sea,1.0,1.0,Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,35.33,Mangrove
+21,72,2023,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,35.33,Mangrove
+21,72,2024,,,,,Arabian_Sea,12.0,4.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Mangrove
+21,72,2025,,,,,Arabian_Sea,16.0,5.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Mangrove
+21,73,2016,6.0,0.0325315591564616,1.0,PVC,Arabian_Sea,,,,,,28.44,8.0762,125.2,0.2,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,35.33,Mangrove
+21,73,2024,,,,,Arabian_Sea,4.0,3.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Mangrove
+21,73,2025,,,,,Arabian_Sea,5.0,3.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Mangrove
+21,75,2021,,,,,Arabian_Sea,2.0,1.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,35.33,Open_Ocean
+21,75,2024,,,,,Arabian_Sea,2.0,2.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Open_Ocean
+21,75,2025,,,,,Arabian_Sea,39.0,10.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Open_Ocean
+21,76,2025,,,,,Bay_of_Bengal,10.0,4.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+21,77,2015,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Open_Ocean
+21,77,2024,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Open_Ocean
+21,77,2025,,,,,Bay_of_Bengal,21.0,9.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+21,78,2025,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+21,79,2016,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,26.26,Open_Ocean
+21,79,2019,,,,,Bay_of_Bengal,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,26.26,Open_Ocean
+21,79,2021,,,,,Bay_of_Bengal,2.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,26.26,Open_Ocean
+21,79,2023,,,,,Bay_of_Bengal,5.0,3.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,26.26,Open_Ocean
+21,79,2024,,,,,Bay_of_Bengal,3.0,2.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Open_Ocean
+21,79,2025,,,,,Bay_of_Bengal,19.0,10.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+21,80,2020,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,26.26,Open_Ocean
+21,80,2021,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,26.26,Open_Ocean
+21,80,2025,,,,,Bay_of_Bengal,3.0,2.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+21,81,2016,,,,,Bay_of_Bengal,3.0,3.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,26.26,Open_Ocean
+21,81,2017,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,26.26,Open_Ocean
+21,81,2018,,,,,Bay_of_Bengal,4.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,26.26,Open_Ocean
+21,81,2019,,,,,Bay_of_Bengal,9.0,5.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,26.26,Open_Ocean
+21,81,2020,,,,,Bay_of_Bengal,13.0,8.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,26.26,Open_Ocean
+21,81,2021,,,,,Bay_of_Bengal,18.0,4.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,26.26,Open_Ocean
+21,81,2022,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,26.26,Open_Ocean
+21,81,2023,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,26.26,Open_Ocean
+21,81,2024,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Open_Ocean
+21,81,2025,,,,,Bay_of_Bengal,9.0,6.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+21,82,2017,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,26.26,Open_Ocean
+21,82,2018,,,,,Bay_of_Bengal,3.0,3.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,26.26,Open_Ocean
+21,82,2019,,,,,Bay_of_Bengal,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,26.26,Open_Ocean
+21,82,2021,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,26.26,Open_Ocean
+21,82,2024,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Open_Ocean
+21,82,2025,,,,,Bay_of_Bengal,2.0,1.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+21,83,2019,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,26.26,Open_Ocean
+21,83,2024,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Open_Ocean
+21,86,2018,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,26.26,Open_Ocean
+21,86,2022,,,,,Bay_of_Bengal,2.0,2.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,26.26,Open_Ocean
+21,86,2024,,,,,Bay_of_Bengal,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Open_Ocean
+21,87,2018,,,,,Bay_of_Bengal,2.0,1.0,Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,26.26,Mangrove
+21,87,2019,,,,,Bay_of_Bengal,6.0,4.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,26.26,Mangrove
+21,87,2020,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,26.26,Mangrove
+21,87,2021,,,,,Bay_of_Bengal,2.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,26.26,Mangrove
+21,87,2024,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Mangrove
+21,88,2015,,,,,Bay_of_Bengal,1.0,1.0,Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Mangrove
+21,88,2016,,,,,Bay_of_Bengal,1.0,1.0,Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,26.26,Mangrove
+21,88,2018,,,,,Bay_of_Bengal,1.0,1.0,Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,26.26,Mangrove
+21,88,2019,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,26.26,Mangrove
+21,88,2021,,,,,Bay_of_Bengal,4.0,3.0,Aves|Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,26.26,Mangrove
+21,88,2022,,,,,Bay_of_Bengal,5.0,2.0,Aves|Mammalia,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,26.26,Mangrove
+21,88,2023,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,26.26,Mangrove
+21,88,2024,,,,,Bay_of_Bengal,21.0,5.0,Aves|Mammalia|Pisces,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Mangrove
+21,88,2025,,,,,Bay_of_Bengal,4.0,3.0,Aves|Reptilia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Mangrove
+21,89,2023,,,,,Bay_of_Bengal,22.0,3.0,Mammalia,LC/Not Evaluated,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,26.26,Mangrove
+22,68,2017,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,35.33,Open_Ocean
+22,68,2022,,,,,Arabian_Sea,1.0,1.0,Reptilia,VU,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,35.33,Open_Ocean
+22,68,2023,,,,,Arabian_Sea,2.0,1.0,Reptilia,VU,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,35.33,Open_Ocean
+22,68,2024,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Open_Ocean
+22,68,2025,,,,,Arabian_Sea,14.0,6.0,Aves|Reptilia,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Open_Ocean
+22,69,2016,,,,,Arabian_Sea,1.0,1.0,Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,35.33,Open_Ocean
+22,69,2017,,,,,Arabian_Sea,2.0,2.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,35.33,Open_Ocean
+22,69,2018,,,,,Arabian_Sea,4.0,4.0,Aves|Mammalia|Pisces,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,35.33,Open_Ocean
+22,69,2019,,,,,Arabian_Sea,1.0,1.0,Reptilia,VU,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,35.33,Open_Ocean
+22,69,2020,,,,,Arabian_Sea,3.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,35.33,Open_Ocean
+22,69,2022,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,35.33,Open_Ocean
+22,69,2023,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,35.33,Open_Ocean
+22,69,2024,,,,,Arabian_Sea,11.0,5.0,Aves,LC/Not Evaluated,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Open_Ocean
+22,69,2025,,,,,Arabian_Sea,21.0,6.0,Aves|Mammalia|Reptilia,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Open_Ocean
+22,70,2015,2.0,0.0348925890111433,1.0,PVC,Arabian_Sea,,,,,,27.8575,8.02175,123.0,0.0,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Open_Ocean
+22,70,2017,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,35.33,Open_Ocean
+22,70,2019,,,,,Arabian_Sea,4.0,2.0,Mammalia,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,35.33,Open_Ocean
+22,70,2020,,,,,Arabian_Sea,8.0,5.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,35.33,Open_Ocean
+22,70,2022,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,35.33,Open_Ocean
+22,70,2024,,,,,Arabian_Sea,27.0,4.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Open_Ocean
+22,70,2025,,,,,Arabian_Sea,5.0,2.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Open_Ocean
+22,71,2016,7.0,0.0135935916314922,1.0,PS,Arabian_Sea,,,,,,28.0475,8.072,125.25,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,35.33,Open_Ocean
+22,71,2016,9.0,0.0287353808384,1.0,PE,Arabian_Sea,,,,,,27.562,8.126999999999999,136.0,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,35.33,Open_Ocean
+22,71,2017,,,,,Arabian_Sea,3.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,35.33,Open_Ocean
+22,71,2020,,,,,Arabian_Sea,3.0,3.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,35.33,Open_Ocean
+22,71,2022,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,35.33,Open_Ocean
+22,71,2024,,,,,Arabian_Sea,17.0,2.0,Aves|Mammalia,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Open_Ocean
+22,71,2025,,,,,Arabian_Sea,13.0,5.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Open_Ocean
+22,72,2016,,,,,Arabian_Sea,3.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,35.33,Mangrove
+22,72,2017,,,,,Arabian_Sea,9.0,5.0,Aves|Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,35.33,Mangrove
+22,72,2018,,,,,Arabian_Sea,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,35.33,Mangrove
+22,72,2019,,,,,Arabian_Sea,5.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,35.33,Mangrove
+22,72,2020,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,35.33,Mangrove
+22,72,2021,,,,,Arabian_Sea,8.0,4.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,35.33,Mangrove
+22,72,2022,,,,,Arabian_Sea,5.0,3.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,35.33,Mangrove
+22,72,2023,,,,,Arabian_Sea,17.0,6.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,35.33,Mangrove
+22,72,2024,,,,,Arabian_Sea,64.0,8.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Mangrove
+22,72,2025,,,,,Arabian_Sea,69.0,14.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Mangrove
+22,73,2021,,,,,Arabian_Sea,2.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,35.33,Mangrove
+22,73,2022,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,35.33,Mangrove
+22,73,2023,,,,,Arabian_Sea,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,35.33,Mangrove
+22,73,2024,,,,,Arabian_Sea,5.0,3.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Mangrove
+22,73,2025,,,,,Arabian_Sea,11.0,6.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Mangrove
+22,74,2023,,,,,Arabian_Sea,3.0,2.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,35.33,Open_Ocean
+22,75,2015,10.0,0.0254129066595118,1.0,PVC,Arabian_Sea,,,,,,28.610000000000003,8.0198,124.6,0.0,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Open_Ocean
+22,75,2019,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,35.33,Open_Ocean
+22,75,2020,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,35.33,Open_Ocean
+22,76,2020,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,26.26,Open_Ocean
+22,76,2025,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+22,77,2019,,,,,Bay_of_Bengal,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,26.26,Open_Ocean
+22,77,2022,,,,,Bay_of_Bengal,2.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,26.26,Open_Ocean
+22,77,2024,,,,,Bay_of_Bengal,6.0,1.0,Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Open_Ocean
+22,77,2025,,,,,Bay_of_Bengal,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+22,78,2015,,,,,Bay_of_Bengal,2.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Open_Ocean
+22,78,2018,,,,,Bay_of_Bengal,3.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,26.26,Open_Ocean
+22,78,2020,,,,,Bay_of_Bengal,2.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,26.26,Open_Ocean
+22,78,2022,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,26.26,Open_Ocean
+22,78,2025,,,,,Bay_of_Bengal,32.0,10.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+22,79,2015,9.0,0.0106786515445424,1.0,PVC,Bay_of_Bengal,,,,,,29.066000000000003,8.0338,114.0,0.2,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Open_Ocean
+22,79,2024,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Open_Ocean
+22,79,2025,,,,,Bay_of_Bengal,3.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+22,80,2015,,,,,Bay_of_Bengal,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Open_Ocean
+22,80,2016,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,26.26,Open_Ocean
+22,80,2017,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,26.26,Open_Ocean
+22,80,2018,,,,,Bay_of_Bengal,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,26.26,Open_Ocean
+22,80,2019,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,26.26,Open_Ocean
+22,80,2021,,,,,Bay_of_Bengal,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,26.26,Open_Ocean
+22,80,2023,,,,,Bay_of_Bengal,3.0,3.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,26.26,Open_Ocean
+22,80,2025,,,,,Bay_of_Bengal,15.0,9.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+22,81,2017,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,26.26,Open_Ocean
+22,81,2025,,,,,Bay_of_Bengal,7.0,4.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+22,82,2021,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,26.26,Open_Ocean
+22,82,2022,,,,,Bay_of_Bengal,2.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,26.26,Open_Ocean
+22,82,2024,,,,,Bay_of_Bengal,2.0,1.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Open_Ocean
+22,83,2021,,,,,Bay_of_Bengal,2.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,26.26,Open_Ocean
+22,83,2022,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,26.26,Open_Ocean
+22,86,2018,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,26.26,Open_Ocean
+22,86,2019,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,26.26,Open_Ocean
+22,86,2022,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,26.26,Open_Ocean
+22,86,2023,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,26.26,Open_Ocean
+22,86,2025,,,,,Bay_of_Bengal,4.0,3.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Open_Ocean
+22,87,2015,9.0,0.0323284258573717,1.0,PVC,Bay_of_Bengal,,,,,,29.066000000000003,8.0338,114.0,0.2,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Mangrove
+22,87,2024,,,,,Bay_of_Bengal,2.0,2.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Mangrove
+22,87,2025,,,,,Bay_of_Bengal,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Mangrove
+22,88,2015,,,,,Bay_of_Bengal,6.0,4.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,26.26,Mangrove
+22,88,2016,,,,,Bay_of_Bengal,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,26.26,Mangrove
+22,88,2017,,,,,Bay_of_Bengal,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,26.26,Mangrove
+22,88,2018,,,,,Bay_of_Bengal,6.0,5.0,Aves|Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,26.26,Mangrove
+22,88,2019,,,,,Bay_of_Bengal,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,26.26,Mangrove
+22,88,2020,,,,,Bay_of_Bengal,22.0,8.0,Aves|Mammalia,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,26.26,Mangrove
+22,88,2021,,,,,Bay_of_Bengal,6.0,3.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,26.26,Mangrove
+22,88,2022,,,,,Bay_of_Bengal,10.0,4.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,26.26,Mangrove
+22,88,2023,,,,,Bay_of_Bengal,15.0,4.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,26.26,Mangrove
+22,88,2024,,,,,Bay_of_Bengal,12.0,7.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,26.26,Mangrove
+22,88,2025,,,,,Bay_of_Bengal,59.0,9.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,26.26,Mangrove
+22,92,2024,,,,,Andaman_Sea,4.0,4.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,12.78,Open_Ocean
+22,93,2015,11.0,0.0138133499965704,1.0,PE,Andaman_Sea,,,,,,29.31,8.07125,105.75,0.25,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,12.78,Open_Ocean
+22,93,2023,,,,,Andaman_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,12.78,Open_Ocean
+22,93,2024,,,,,Andaman_Sea,6.0,2.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,12.78,Open_Ocean
+22,93,2025,,,,,Andaman_Sea,2.0,1.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,12.78,Open_Ocean
+23,67,2015,9.0,0.0174924698443297,1.0,PET,Arabian_Sea,,,,,,29.066000000000003,8.0338,114.0,0.2,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Open_Ocean
+23,68,2016,,,,,Arabian_Sea,3.0,1.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,35.33,Open_Ocean
+23,68,2019,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,35.33,Open_Ocean
+23,68,2023,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,35.33,Open_Ocean
+23,68,2024,,,,,Arabian_Sea,9.0,4.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Open_Ocean
+23,68,2025,,,,,Arabian_Sea,2.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Open_Ocean
+23,69,2015,,,,,Arabian_Sea,1.0,1.0,Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Open_Ocean
+23,69,2018,,,,,Arabian_Sea,7.0,3.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,35.33,Open_Ocean
+23,69,2021,,,,,Arabian_Sea,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,35.33,Open_Ocean
+23,69,2022,,,,,Arabian_Sea,3.0,2.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,35.33,Open_Ocean
+23,69,2023,,,,,Arabian_Sea,3.0,3.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,35.33,Open_Ocean
+23,69,2024,,,,,Arabian_Sea,65.0,9.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Open_Ocean
+23,69,2025,,,,,Arabian_Sea,32.0,9.0,Aves|Mammalia,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Open_Ocean
+23,70,2024,,,,,Arabian_Sea,16.0,2.0,Aves|Mammalia,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Open_Ocean
+23,71,2015,,,,,Arabian_Sea,5.0,2.0,Aves|Mammalia,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Open_Ocean
+23,71,2016,,,,,Arabian_Sea,4.0,3.0,Aves|Mammalia,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,35.33,Open_Ocean
+23,71,2017,,,,,Arabian_Sea,17.0,4.0,Aves|Mammalia,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,35.33,Open_Ocean
+23,71,2018,,,,,Arabian_Sea,9.0,4.0,Aves|Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,35.33,Open_Ocean
+23,71,2019,,,,,Arabian_Sea,5.0,1.0,Mammalia,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,35.33,Open_Ocean
+23,71,2020,,,,,Arabian_Sea,2.0,2.0,Aves|Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,35.33,Open_Ocean
+23,71,2021,,,,,Arabian_Sea,3.0,2.0,Aves|Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,35.33,Open_Ocean
+23,71,2022,,,,,Arabian_Sea,11.0,3.0,Aves|Mammalia,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,35.33,Open_Ocean
+23,71,2023,,,,,Arabian_Sea,16.0,6.0,Aves|Mammalia,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,35.33,Open_Ocean
+23,71,2024,,,,,Arabian_Sea,136.0,7.0,Aves|Mammalia,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Open_Ocean
+23,71,2025,,,,,Arabian_Sea,43.0,7.0,Aves|Mammalia,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Open_Ocean
+23,72,2015,4.0,0.018066723518863,1.0,PE,Arabian_Sea,5.0,2.0,Aves,LC/Not Evaluated,Scientific,28.732,8.048399999999999,101.2,0.2,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Open_Ocean
+23,72,2016,,,,,Arabian_Sea,13.0,3.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,35.33,Open_Ocean
+23,72,2017,,,,,Arabian_Sea,24.0,5.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,35.33,Open_Ocean
+23,72,2018,,,,,Arabian_Sea,4.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,35.33,Open_Ocean
+23,72,2019,,,,,Arabian_Sea,3.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,35.33,Open_Ocean
+23,72,2020,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,35.33,Open_Ocean
+23,72,2021,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,35.33,Open_Ocean
+23,72,2022,,,,,Arabian_Sea,3.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,35.33,Open_Ocean
+23,72,2023,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,35.33,Open_Ocean
+23,72,2024,,,,,Arabian_Sea,36.0,5.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Open_Ocean
+23,72,2025,,,,,Arabian_Sea,9.0,6.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Open_Ocean
+23,77,2022,,,,,Indian_Ocean,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,20.9,Open_Ocean
+23,77,2023,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,20.9,Open_Ocean
+23,77,2024,,,,,Indian_Ocean,4.0,4.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+23,77,2025,,,,,Indian_Ocean,10.0,5.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+23,79,2015,12.0,0.0140587633844282,1.0,PP,Indian_Ocean,,,,,,27.054,8.0694,131.8,0.2,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,20.9,Open_Ocean
+23,79,2021,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,20.9,Open_Ocean
+23,79,2023,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,20.9,Open_Ocean
+23,79,2024,,,,,Indian_Ocean,15.0,4.0,Aves|Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+23,79,2025,,,,,Indian_Ocean,17.0,11.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+23,80,2016,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,20.9,Open_Ocean
+23,80,2018,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,20.9,Open_Ocean
+23,80,2022,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,20.9,Open_Ocean
+23,80,2024,,,,,Indian_Ocean,4.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+23,80,2025,,,,,Indian_Ocean,28.0,7.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+23,81,2022,,,,,Indian_Ocean,6.0,5.0,Aves|Mammalia,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,20.9,Open_Ocean
+23,81,2024,,,,,Indian_Ocean,28.0,7.0,Aves|Mammalia|Pisces,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+23,81,2025,,,,,Indian_Ocean,10.0,2.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+23,85,2025,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+23,86,2022,,,,,Indian_Ocean,2.0,2.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,20.9,Open_Ocean
+23,86,2023,,,,,Indian_Ocean,4.0,2.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,20.9,Open_Ocean
+23,86,2024,,,,,Indian_Ocean,3.0,3.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+23,86,2025,,,,,Indian_Ocean,7.0,4.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+23,87,2017,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,20.9,Mangrove
+23,87,2018,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,20.9,Mangrove
+23,87,2021,,,,,Indian_Ocean,3.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,20.9,Mangrove
+23,87,2025,,,,,Indian_Ocean,3.0,1.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Mangrove
+23,88,2016,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,20.9,Mangrove
+23,88,2019,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,20.9,Mangrove
+23,88,2020,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,20.9,Mangrove
+23,88,2023,,,,,Indian_Ocean,2.0,2.0,Aves|Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,20.9,Mangrove
+23,88,2024,,,,,Indian_Ocean,9.0,2.0,Aves|Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Mangrove
+23,88,2025,,,,,Indian_Ocean,78.0,5.0,Aves|Mammalia,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Mangrove
+23,90,2016,2.0,0.015695216874064,1.0,PET,Andaman_Sea,,,,,,28.1625,8.104000000000001,122.75,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,12.78,Mangrove
+23,91,2015,4.0,0.0070424118370035,1.0,PP,Andaman_Sea,,,,,,28.732,8.048399999999999,101.2,0.2,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,12.78,Open_Ocean
+23,91,2016,,,,,Andaman_Sea,1.0,1.0,Aves,LC/Not Evaluated,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,12.78,Open_Ocean
+23,91,2025,,,,,Andaman_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,12.78,Open_Ocean
+23,92,2023,,,,,Andaman_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,12.78,Open_Ocean
+23,92,2024,,,,,Andaman_Sea,3.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,12.78,Open_Ocean
+23,93,2025,,,,,Andaman_Sea,2.0,1.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,12.78,Open_Ocean
+23,94,2016,6.0,0.0182936024320746,1.0,PP,Andaman_Sea,,,,,,28.44,8.0762,125.2,0.2,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,12.78,Open_Ocean
+24,70,2017,,,,,Arabian_Sea,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,35.33,Open_Ocean
+24,70,2018,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,35.33,Open_Ocean
+24,70,2021,,,,,Arabian_Sea,3.0,3.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,35.33,Open_Ocean
+24,70,2023,,,,,Arabian_Sea,4.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,35.33,Open_Ocean
+24,70,2024,,,,,Arabian_Sea,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Open_Ocean
+24,71,2020,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,35.33,Open_Ocean
+24,71,2023,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,35.33,Open_Ocean
+24,71,2024,,,,,Arabian_Sea,21.0,3.0,Aves|Mammalia,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Open_Ocean
+24,71,2025,,,,,Arabian_Sea,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Open_Ocean
+24,72,2018,,,,,Arabian_Sea,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,35.33,Open_Ocean
+24,72,2019,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,35.33,Open_Ocean
+24,72,2022,,,,,Arabian_Sea,5.0,3.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,35.33,Open_Ocean
+24,72,2023,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,35.33,Open_Ocean
+24,72,2024,,,,,Arabian_Sea,6.0,4.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Open_Ocean
+24,72,2025,,,,,Arabian_Sea,5.0,5.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Open_Ocean
+24,73,2021,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,35.33,Open_Ocean
+24,73,2022,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,35.33,Open_Ocean
+24,73,2023,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,35.33,Open_Ocean
+24,73,2024,,,,,Arabian_Sea,4.0,3.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Open_Ocean
+24,73,2025,,,,,Arabian_Sea,4.0,2.0,Aves,LC,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Open_Ocean
+24,74,2015,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Open_Ocean
+24,74,2021,,,,,Arabian_Sea,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,35.33,Open_Ocean
+24,74,2022,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,35.33,Open_Ocean
+24,74,2023,,,,,Arabian_Sea,3.0,3.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,35.33,Open_Ocean
+24,74,2024,,,,,Arabian_Sea,7.0,1.0,Aves,LC/Not Evaluated,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Open_Ocean
+24,75,2019,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,35.33,Open_Ocean
+24,75,2020,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,35.33,Open_Ocean
+24,75,2023,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,35.33,Open_Ocean
+24,75,2024,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Open_Ocean
+24,76,2025,,,,,Indian_Ocean,4.0,1.0,Aves,LC/Not Evaluated,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+24,79,2019,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,20.9,Open_Ocean
+24,79,2022,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,20.9,Open_Ocean
+24,80,2016,5.0,0.0433063309847448,1.0,PVC,Indian_Ocean,,,,,,28.52,8.103399999999999,123.0,0.4,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,20.9,Open_Ocean
+24,80,2019,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,20.9,Open_Ocean
+24,80,2022,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,20.9,Open_Ocean
+24,80,2025,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+24,82,2016,1.0,0.0055148782757731,1.0,PE,Indian_Ocean,,,,,,29.292,8.0472,119.0,0.2,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,20.9,Open_Ocean
+24,83,2024,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+24,85,2025,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+24,88,2015,8.0,0.0230553086980903,1.0,PE,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,29.325,8.03725,118.75,0.5,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,20.9,Open_Ocean
+24,88,2024,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+24,89,2015,8.0,0.0311071983206552,1.0,PET,Indian_Ocean,,,,,,29.325,8.03725,118.75,0.5,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,20.9,Open_Ocean
+24,90,2015,5.0,0.0086481586772491,1.0,PS,Andaman_Sea,,,,,,28.5575,8.07275,116.5,0.0,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,12.78,Open_Ocean
+24,91,2015,9.0,0.0236244761263848,1.0,PS,Andaman_Sea,,,,,,29.066000000000003,8.0338,114.0,0.2,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,12.78,Open_Ocean
+24,92,2015,,,,,Andaman_Sea,2.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,12.78,Open_Ocean
+24,92,2016,,,,,Andaman_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,12.78,Open_Ocean
+24,92,2017,,,,,Andaman_Sea,2.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,12.78,Open_Ocean
+24,92,2019,,,,,Andaman_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,12.78,Open_Ocean
+24,92,2020,,,,,Andaman_Sea,2.0,2.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,12.78,Open_Ocean
+24,92,2021,,,,,Andaman_Sea,6.0,3.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,12.78,Open_Ocean
+24,92,2022,,,,,Andaman_Sea,30.0,4.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,12.78,Open_Ocean
+24,92,2023,,,,,Andaman_Sea,67.0,5.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,12.78,Open_Ocean
+24,92,2024,,,,,Andaman_Sea,72.0,8.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,12.78,Open_Ocean
+24,92,2025,,,,,Andaman_Sea,176.0,11.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,12.78,Open_Ocean
+24,93,2023,,,,,Andaman_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,12.78,Open_Ocean
+24,93,2024,,,,,Andaman_Sea,6.0,1.0,Aves,LC/Not Evaluated,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,12.78,Open_Ocean
+24,93,2025,,,,,Andaman_Sea,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,12.78,Open_Ocean
+24,94,2016,7.0,0.0286350828616077,1.0,PE,Andaman_Sea,,,,,,28.0475,8.072,125.25,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,12.78,Open_Ocean
+25,66,2015,5.0,0.0346636876946039,1.0,PVC,Arabian_Sea,,,,,,28.5575,8.07275,116.5,0.0,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Open_Ocean
+25,66,2016,8.0,0.0184472420009191,1.0,PVC,Arabian_Sea,,,,,,26.782,8.080200000000001,124.0,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,35.33,Open_Ocean
+25,70,2025,,,,,Arabian_Sea,2.0,1.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Open_Ocean
+25,72,2018,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,35.33,Open_Ocean
+25,72,2025,,,,,Arabian_Sea,3.0,2.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Open_Ocean
+25,73,2018,,,,,Arabian_Sea,2.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,35.33,Open_Ocean
+25,73,2024,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Open_Ocean
+25,73,2025,,,,,Arabian_Sea,2.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Open_Ocean
+25,74,2015,1.0,0.0325899854714249,1.0,PET,Arabian_Sea,,,,,,29.110000000000003,8.006,103.2,0.0,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Open_Ocean
+25,74,2015,6.0,0.0346211283805289,1.0,PE,Arabian_Sea,,,,,,27.986,8.0716,120.6,0.2,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,35.33,Open_Ocean
+25,74,2022,,,,,Arabian_Sea,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,35.33,Open_Ocean
+25,75,2020,,,,,Arabian_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,35.33,Open_Ocean
+25,75,2023,,,,,Arabian_Sea,3.0,3.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,35.33,Open_Ocean
+25,75,2024,,,,,Arabian_Sea,14.0,7.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,35.33,Open_Ocean
+25,75,2025,,,,,Arabian_Sea,23.0,6.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,35.33,Open_Ocean
+25,76,2015,2.0,0.0084303187153343,1.0,PE,Indian_Ocean,,,,,,27.8575,8.02175,123.0,0.0,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,20.9,Open_Ocean
+25,76,2018,,,,,Indian_Ocean,3.0,3.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,20.9,Open_Ocean
+25,76,2019,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,20.9,Open_Ocean
+25,76,2024,,,,,Indian_Ocean,3.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+25,76,2025,,,,,Indian_Ocean,8.0,5.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+25,77,2025,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+25,81,2016,,,,,Indian_Ocean,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,20.9,Open_Ocean
+25,81,2023,,,,,Indian_Ocean,7.0,6.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,20.9,Open_Ocean
+25,81,2024,,,,,Indian_Ocean,3.0,3.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+25,81,2025,,,,,Indian_Ocean,13.0,5.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+25,82,2024,,,,,Indian_Ocean,2.0,1.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+25,82,2025,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+25,83,2025,,,,,Indian_Ocean,2.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+25,84,2022,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,20.9,Open_Ocean
+25,84,2023,,,,,Indian_Ocean,1.0,1.0,Aves,LC,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,20.9,Open_Ocean
+25,84,2024,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+25,84,2025,,,,,Indian_Ocean,4.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+25,85,2018,,,,,Indian_Ocean,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,20.9,Open_Ocean
+25,85,2019,,,,,Indian_Ocean,1.0,1.0,Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,20.9,Open_Ocean
+25,85,2024,,,,,Indian_Ocean,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+25,85,2025,,,,,Indian_Ocean,11.0,6.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+25,86,2016,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,20.9,Open_Ocean
+25,86,2023,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,20.9,Open_Ocean
+25,86,2024,,,,,Indian_Ocean,1.0,1.0,Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+25,87,2015,,,,,Indian_Ocean,1.0,1.0,Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,20.9,Open_Ocean
+25,87,2020,,,,,Indian_Ocean,2.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,20.9,Open_Ocean
+25,87,2021,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,20.9,Open_Ocean
+25,87,2024,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+25,87,2025,,,,,Indian_Ocean,10.0,2.0,Aves|Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+25,88,2015,3.0,0.0446739543107406,1.0,PE,Indian_Ocean,,,,,,28.492,8.0546,120.8,0.4,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,20.9,Open_Ocean
+25,88,2016,6.0,0.0236757782233781,1.0,PE,Indian_Ocean,,,,,,28.44,8.0762,125.2,0.2,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,20.9,Open_Ocean
+25,88,2017,,,,,Indian_Ocean,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,20.9,Open_Ocean
+25,88,2018,,,,,Indian_Ocean,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,20.9,Open_Ocean
+25,88,2020,,,,,Indian_Ocean,2.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,20.9,Open_Ocean
+25,90,2015,6.0,0.0180448801962365,1.0,PVC,Andaman_Sea,,,,,,27.986,8.0716,120.6,0.2,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,12.78,Open_Ocean
+25,90,2023,,,,,Andaman_Sea,2.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,12.78,Open_Ocean
+25,90,2024,,,,,Andaman_Sea,5.0,1.0,Aves,LC/Not Evaluated,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,12.78,Open_Ocean
+25,90,2025,,,,,Andaman_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,12.78,Open_Ocean
+25,91,2017,,,,,Andaman_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,12.78,Open_Ocean
+25,91,2020,,,,,Andaman_Sea,2.0,2.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,12.78,Open_Ocean
+25,91,2021,,,,,Andaman_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,12.78,Open_Ocean
+25,91,2023,,,,,Andaman_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,12.78,Open_Ocean
+25,91,2024,,,,,Andaman_Sea,11.0,5.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,12.78,Open_Ocean
+25,91,2025,,,,,Andaman_Sea,5.0,2.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,12.78,Open_Ocean
+25,92,2018,,,,,Andaman_Sea,2.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,12.78,Open_Ocean
+25,92,2024,,,,,Andaman_Sea,2.0,1.0,Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,12.78,Open_Ocean
+25,93,2023,,,,,Andaman_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,12.78,Open_Ocean
+25,93,2025,,,,,Andaman_Sea,6.0,5.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,12.78,Open_Ocean
+25,94,2017,,,,,Andaman_Sea,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,12.78,Open_Ocean
+25,94,2018,,,,,Andaman_Sea,4.0,4.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,12.78,Open_Ocean
+25,94,2023,,,,,Andaman_Sea,4.0,3.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,12.78,Open_Ocean
+25,94,2024,,,,,Andaman_Sea,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,12.78,Open_Ocean
+25,94,2025,,,,,Andaman_Sea,28.0,7.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,12.78,Open_Ocean
+26,65,2016,7.0,0.0003911213391939,1.0,PVC,Gulf_of_Kutch,,,,,,28.0475,8.072,125.25,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,4.73,Open_Ocean
+26,70,2015,,,,,Gulf_of_Kutch,4.0,1.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,4.73,Open_Ocean
+26,70,2016,,,,,Gulf_of_Kutch,11.0,4.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,4.73,Open_Ocean
+26,70,2017,,,,,Gulf_of_Kutch,9.0,2.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,4.73,Open_Ocean
+26,70,2018,,,,,Gulf_of_Kutch,33.0,5.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,4.73,Open_Ocean
+26,70,2019,,,,,Gulf_of_Kutch,11.0,2.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,4.73,Open_Ocean
+26,70,2020,,,,,Gulf_of_Kutch,24.0,5.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,4.73,Open_Ocean
+26,70,2021,,,,,Gulf_of_Kutch,2.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,4.73,Open_Ocean
+26,70,2022,,,,,Gulf_of_Kutch,4.0,2.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,4.73,Open_Ocean
+26,70,2023,,,,,Gulf_of_Kutch,42.0,5.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,4.73,Open_Ocean
+26,70,2024,,,,,Gulf_of_Kutch,31.0,9.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,4.73,Open_Ocean
+26,70,2025,,,,,Gulf_of_Kutch,78.0,8.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,4.73,Open_Ocean
+26,71,2016,,,,,Gulf_of_Kutch,2.0,1.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,4.73,Open_Ocean
+26,71,2019,,,,,Gulf_of_Kutch,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,4.73,Open_Ocean
+26,71,2025,,,,,Gulf_of_Kutch,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,4.73,Open_Ocean
+26,72,2024,,,,,Gulf_of_Kutch,2.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,4.73,Open_Ocean
+26,72,2025,,,,,Gulf_of_Kutch,3.0,2.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,4.73,Open_Ocean
+26,73,2018,,,,,Gulf_of_Kutch,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,4.73,Open_Ocean
+26,73,2021,,,,,Gulf_of_Kutch,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,4.73,Open_Ocean
+26,73,2024,,,,,Gulf_of_Kutch,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,4.73,Open_Ocean
+26,73,2025,,,,,Gulf_of_Kutch,17.0,8.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,4.73,Open_Ocean
+26,74,2016,3.0,0.0398799868115428,1.0,PVC,Gulf_of_Kutch,,,,,,28.316000000000003,8.044799999999999,122.4,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,4.73,Open_Ocean
+26,74,2022,,,,,Gulf_of_Kutch,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,4.73,Open_Ocean
+26,74,2023,,,,,Gulf_of_Kutch,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,4.73,Open_Ocean
+26,74,2024,,,,,Gulf_of_Kutch,4.0,4.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,4.73,Open_Ocean
+26,74,2025,,,,,Gulf_of_Kutch,2.0,2.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,4.73,Open_Ocean
+26,75,2022,,,,,Gulf_of_Kutch,2.0,2.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,4.73,Open_Ocean
+26,75,2023,,,,,Gulf_of_Kutch,5.0,3.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,4.73,Open_Ocean
+26,75,2024,,,,,Gulf_of_Kutch,8.0,4.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,4.73,Open_Ocean
+26,75,2025,,,,,Gulf_of_Kutch,5.0,3.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,4.73,Open_Ocean
+26,76,2017,,,,,Indian_Ocean,3.0,3.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,20.9,Open_Ocean
+26,76,2023,,,,,Indian_Ocean,3.0,1.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,20.9,Open_Ocean
+26,76,2024,,,,,Indian_Ocean,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+26,76,2025,,,,,Indian_Ocean,27.0,11.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+26,77,2015,4.0,0.0162935990687307,1.0,PET,Indian_Ocean,,,,,,28.732,8.048399999999999,101.2,0.2,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,20.9,Open_Ocean
+26,77,2017,,,,,Indian_Ocean,2.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,20.9,Open_Ocean
+26,77,2018,,,,,Indian_Ocean,1.0,1.0,Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,20.9,Open_Ocean
+26,77,2020,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,20.9,Open_Ocean
+26,77,2024,,,,,Indian_Ocean,2.0,1.0,Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+26,77,2025,,,,,Indian_Ocean,8.0,7.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+26,78,2016,5.0,0.0273302331230609,1.0,PVC,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,28.52,8.103399999999999,123.0,0.4,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,20.9,Open_Ocean
+26,78,2017,,,,,Indian_Ocean,2.0,2.0,Aves|Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,20.9,Open_Ocean
+26,78,2018,,,,,Indian_Ocean,4.0,3.0,Aves|Mammalia,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,20.9,Open_Ocean
+26,78,2020,,,,,Indian_Ocean,1.0,1.0,Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,20.9,Open_Ocean
+26,78,2021,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,20.9,Open_Ocean
+26,78,2023,,,,,Indian_Ocean,1.0,1.0,Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,20.9,Open_Ocean
+26,78,2024,,,,,Indian_Ocean,9.0,4.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+26,78,2025,,,,,Indian_Ocean,8.0,7.0,Aves|Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+26,79,2016,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,20.9,Open_Ocean
+26,79,2020,,,,,Indian_Ocean,7.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,20.9,Open_Ocean
+26,79,2025,,,,,Indian_Ocean,2.0,2.0,Aves,LC,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+26,80,2015,,,,,Indian_Ocean,7.0,5.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,20.9,Open_Ocean
+26,80,2016,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,20.9,Open_Ocean
+26,80,2025,,,,,Indian_Ocean,16.0,8.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+26,81,2025,,,,,Indian_Ocean,4.0,2.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+26,82,2024,,,,,Indian_Ocean,3.0,2.0,Aves,LC/Not Evaluated,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+26,83,2015,6.0,0.0356371069537761,1.0,PE,Indian_Ocean,,,,,,27.986,8.0716,120.6,0.2,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,20.9,Open_Ocean
+26,83,2025,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+26,84,2016,9.0,0.0220783116220207,1.0,PVC,Indian_Ocean,,,,,,27.562,8.126999999999999,136.0,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,20.9,Open_Ocean
+26,84,2025,,,,,Indian_Ocean,3.0,1.0,Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+26,86,2015,6.0,0.0402787462934544,1.0,PP,Indian_Ocean,,,,,,27.986,8.0716,120.6,0.2,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,20.9,Open_Ocean
+26,86,2025,,,,,Indian_Ocean,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+26,88,2015,,,,,Indian_Ocean,2.0,2.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,20.9,Open_Ocean
+26,88,2016,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,20.9,Open_Ocean
+26,88,2017,,,,,Indian_Ocean,3.0,3.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,20.9,Open_Ocean
+26,88,2018,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,20.9,Open_Ocean
+26,88,2019,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,20.9,Open_Ocean
+26,88,2020,,,,,Indian_Ocean,3.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,20.9,Open_Ocean
+26,88,2021,,,,,Indian_Ocean,8.0,5.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,20.9,Open_Ocean
+26,88,2022,,,,,Indian_Ocean,12.0,5.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,20.9,Open_Ocean
+26,88,2023,,,,,Indian_Ocean,15.0,9.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,20.9,Open_Ocean
+26,88,2024,,,,,Indian_Ocean,26.0,14.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+26,88,2025,,,,,Indian_Ocean,41.0,12.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+26,89,2015,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,20.9,Open_Ocean
+26,89,2016,2.0,0.0265806654186509,1.0,PS,Indian_Ocean,,,,,,28.1625,8.104000000000001,122.75,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,20.9,Open_Ocean
+26,89,2017,,,,,Indian_Ocean,3.0,2.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,20.9,Open_Ocean
+26,89,2020,,,,,Indian_Ocean,4.0,4.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,20.9,Open_Ocean
+26,89,2024,,,,,Indian_Ocean,7.0,6.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+26,89,2025,,,,,Indian_Ocean,8.0,4.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+26,90,2020,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,20.9,Open_Ocean
+26,90,2022,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,20.9,Open_Ocean
+26,90,2023,,,,,Indian_Ocean,3.0,3.0,Aves|Mammalia,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,20.9,Open_Ocean
+26,90,2025,,,,,Indian_Ocean,3.0,2.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+26,91,2017,,,,,Indian_Ocean,1.0,1.0,Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,20.9,Open_Ocean
+26,91,2019,,,,,Indian_Ocean,2.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,20.9,Open_Ocean
+26,91,2021,,,,,Indian_Ocean,2.0,1.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,20.9,Open_Ocean
+26,91,2022,,,,,Indian_Ocean,4.0,4.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,20.9,Open_Ocean
+26,91,2023,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,20.9,Open_Ocean
+26,91,2024,,,,,Indian_Ocean,8.0,3.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+26,91,2025,,,,,Indian_Ocean,27.0,10.0,Aves|Mammalia,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+26,92,2015,,,,,Indian_Ocean,2.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,20.9,Open_Ocean
+26,92,2016,5.0,0.0286424829604225,1.0,PS,Indian_Ocean,,,,,,28.52,8.103399999999999,123.0,0.4,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,20.9,Open_Ocean
+26,92,2018,,,,,Indian_Ocean,5.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,20.9,Open_Ocean
+26,92,2020,,,,,Indian_Ocean,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,20.9,Open_Ocean
+26,92,2022,,,,,Indian_Ocean,5.0,4.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,20.9,Open_Ocean
+26,92,2023,,,,,Indian_Ocean,9.0,7.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,20.9,Open_Ocean
+26,92,2024,,,,,Indian_Ocean,24.0,9.0,Aves|Mammalia,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+26,92,2025,,,,,Indian_Ocean,26.0,8.0,Aves|Mammalia,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+26,93,2016,,,,,Indian_Ocean,3.0,2.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,20.9,Open_Ocean
+26,93,2017,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,20.9,Open_Ocean
+26,93,2018,,,,,Indian_Ocean,4.0,3.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,20.9,Open_Ocean
+26,93,2019,,,,,Indian_Ocean,3.0,2.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,20.9,Open_Ocean
+26,93,2020,,,,,Indian_Ocean,6.0,2.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,20.9,Open_Ocean
+26,93,2022,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,20.9,Open_Ocean
+26,93,2023,,,,,Indian_Ocean,2.0,2.0,Aves|Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,20.9,Open_Ocean
+26,93,2024,,,,,Indian_Ocean,10.0,5.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+26,93,2025,,,,,Indian_Ocean,35.0,8.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+26,94,2018,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,20.9,Open_Ocean
+26,94,2020,,,,,Indian_Ocean,1.0,1.0,Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,20.9,Open_Ocean
+26,94,2021,,,,,Indian_Ocean,2.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,20.9,Open_Ocean
+26,94,2022,,,,,Indian_Ocean,3.0,3.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,20.9,Open_Ocean
+26,94,2023,,,,,Indian_Ocean,5.0,5.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,20.9,Open_Ocean
+26,94,2024,,,,,Indian_Ocean,8.0,7.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+26,94,2025,,,,,Indian_Ocean,19.0,10.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+27,65,2015,10.0,0.0431800305327756,1.0,PVC,Gulf_of_Kutch,,,,,,28.610000000000003,8.0198,124.6,0.0,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,4.73,Open_Ocean
+27,68,2016,8.0,0.0227806987393083,1.0,PP,Gulf_of_Kutch,,,,,,26.782,8.080200000000001,124.0,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,4.73,Open_Ocean
+27,70,2020,,,,,Gulf_of_Kutch,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,4.73,Open_Ocean
+27,70,2024,,,,,Gulf_of_Kutch,5.0,5.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,4.73,Open_Ocean
+27,70,2025,,,,,Gulf_of_Kutch,14.0,6.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,4.73,Open_Ocean
+27,71,2024,,,,,Gulf_of_Kutch,4.0,3.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,4.73,Open_Ocean
+27,71,2025,,,,,Gulf_of_Kutch,1.0,1.0,Aves,LC/Not Evaluated,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,,,,4.73,Open_Ocean
+27,72,2016,,,,,Gulf_of_Kutch,4.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,4.73,Open_Ocean
+27,72,2018,,,,,Gulf_of_Kutch,5.0,3.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,4.73,Open_Ocean
+27,72,2021,,,,,Gulf_of_Kutch,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,4.73,Open_Ocean
+27,72,2024,,,,,Gulf_of_Kutch,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,4.73,Open_Ocean
+27,72,2025,,,,,Gulf_of_Kutch,6.0,2.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,4.73,Open_Ocean
+27,73,2015,,,,,Gulf_of_Kutch,2.0,2.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,4.73,Open_Ocean
+27,73,2016,,,,,Gulf_of_Kutch,2.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,4.73,Open_Ocean
+27,73,2018,,,,,Gulf_of_Kutch,4.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,4.73,Open_Ocean
+27,73,2019,,,,,Gulf_of_Kutch,3.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,4.73,Open_Ocean
+27,73,2022,,,,,Gulf_of_Kutch,3.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,4.73,Open_Ocean
+27,73,2023,,,,,Gulf_of_Kutch,7.0,3.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,4.73,Open_Ocean
+27,73,2024,,,,,Gulf_of_Kutch,2.0,2.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,4.73,Open_Ocean
+27,73,2025,,,,,Gulf_of_Kutch,55.0,4.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,4.73,Open_Ocean
+27,74,2016,,,,,Gulf_of_Kutch,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,4.73,Open_Ocean
+27,74,2017,,,,,Gulf_of_Kutch,4.0,1.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,4.73,Open_Ocean
+27,74,2018,,,,,Gulf_of_Kutch,2.0,1.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,4.73,Open_Ocean
+27,74,2019,,,,,Gulf_of_Kutch,10.0,5.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,4.73,Open_Ocean
+27,74,2020,,,,,Gulf_of_Kutch,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,4.73,Open_Ocean
+27,74,2021,,,,,Gulf_of_Kutch,11.0,4.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,4.73,Open_Ocean
+27,74,2022,,,,,Gulf_of_Kutch,7.0,4.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,4.73,Open_Ocean
+27,74,2023,,,,,Gulf_of_Kutch,3.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,4.73,Open_Ocean
+27,74,2024,,,,,Gulf_of_Kutch,13.0,7.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,4.73,Open_Ocean
+27,74,2025,,,,,Gulf_of_Kutch,15.0,7.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,4.73,Open_Ocean
+27,75,2021,,,,,Gulf_of_Kutch,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,4.73,Open_Ocean
+27,75,2022,,,,,Gulf_of_Kutch,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,4.73,Open_Ocean
+27,75,2024,,,,,Gulf_of_Kutch,9.0,3.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,4.73,Open_Ocean
+27,75,2025,,,,,Gulf_of_Kutch,12.0,5.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,4.73,Open_Ocean
+27,76,2016,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,20.9,Open_Ocean
+27,76,2020,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,20.9,Open_Ocean
+27,76,2024,,,,,Indian_Ocean,3.0,2.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+27,76,2025,,,,,Indian_Ocean,6.0,3.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+27,77,2015,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,20.9,Open_Ocean
+27,77,2017,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,20.9,Open_Ocean
+27,77,2018,,,,,Indian_Ocean,14.0,9.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,20.9,Open_Ocean
+27,77,2019,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Citizen_Science,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,20.9,Open_Ocean
+27,77,2020,,,,,Indian_Ocean,5.0,3.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,20.9,Open_Ocean
+27,77,2021,,,,,Indian_Ocean,5.0,3.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,20.9,Open_Ocean
+27,77,2022,,,,,Indian_Ocean,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,20.9,Open_Ocean
+27,77,2023,,,,,Indian_Ocean,8.0,5.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,20.9,Open_Ocean
+27,77,2024,,,,,Indian_Ocean,8.0,5.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+27,77,2025,,,,,Indian_Ocean,51.0,14.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+27,78,2015,7.0,0.0052532338743301,1.0,PE,Indian_Ocean,,,,,,27.908,8.051,133.0,0.2,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,20.9,Open_Ocean
+27,78,2023,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,20.9,Open_Ocean
+27,78,2024,,,,,Indian_Ocean,2.0,2.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+27,78,2025,,,,,Indian_Ocean,4.0,3.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+27,79,2020,,,,,Indian_Ocean,4.0,3.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,20.9,Open_Ocean
+27,82,2025,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+27,83,2025,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+27,84,2015,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,20.9,Open_Ocean
+27,84,2024,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+27,87,2016,2.0,0.0409949108013016,1.0,PET,Indian_Ocean,,,,,,28.1625,8.104000000000001,122.75,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,20.9,Open_Ocean
+27,87,2016,8.0,0.0076473079015414,1.0,PVC,Indian_Ocean,,,,,,26.782,8.080200000000001,124.0,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,20.9,Open_Ocean
+27,88,2015,,,,,Indian_Ocean,10.0,6.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,20.9,Open_Ocean
+27,88,2016,,,,,Indian_Ocean,12.0,6.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,20.9,Open_Ocean
+27,88,2017,,,,,Indian_Ocean,9.0,8.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,20.9,Open_Ocean
+27,88,2018,,,,,Indian_Ocean,13.0,10.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,20.9,Open_Ocean
+27,88,2019,,,,,Indian_Ocean,20.0,10.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,20.9,Open_Ocean
+27,88,2020,,,,,Indian_Ocean,4.0,4.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,20.9,Open_Ocean
+27,88,2021,,,,,Indian_Ocean,34.0,16.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,20.9,Open_Ocean
+27,88,2022,,,,,Indian_Ocean,46.0,16.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,20.9,Open_Ocean
+27,88,2023,,,,,Indian_Ocean,48.0,13.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,20.9,Open_Ocean
+27,88,2024,,,,,Indian_Ocean,81.0,22.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+27,88,2025,,,,,Indian_Ocean,104.0,17.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+27,91,2019,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,20.9,Open_Ocean
+27,91,2021,,,,,Indian_Ocean,9.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,20.9,Open_Ocean
+27,91,2024,,,,,Indian_Ocean,4.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+27,91,2025,,,,,Indian_Ocean,12.0,3.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+27,92,2015,,,,,Indian_Ocean,7.0,5.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,20.9,Open_Ocean
+27,92,2016,,,,,Indian_Ocean,8.0,7.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,20.9,Open_Ocean
+27,92,2019,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,20.9,Open_Ocean
+27,92,2021,,,,,Indian_Ocean,3.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,20.9,Open_Ocean
+27,92,2023,,,,,Indian_Ocean,24.0,14.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,20.9,Open_Ocean
+27,92,2024,,,,,Indian_Ocean,123.0,18.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+27,92,2025,,,,,Indian_Ocean,93.0,15.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+27,93,2024,,,,,Indian_Ocean,9.0,4.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+27,93,2025,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+27,94,2018,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,20.9,Open_Ocean
+27,94,2021,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,20.9,Open_Ocean
+27,94,2024,,,,,Indian_Ocean,5.0,3.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+27,94,2025,,,,,Indian_Ocean,3.0,2.0,Aves|Mammalia,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+28,73,2016,8.0,0.0079529381946739,1.0,PP,Gulf_of_Kutch,,,,,,26.782,8.080200000000001,124.0,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,4.73,Open_Ocean
+28,73,2018,,,,,Gulf_of_Kutch,2.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,4.73,Open_Ocean
+28,73,2019,,,,,Gulf_of_Kutch,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,4.73,Open_Ocean
+28,73,2022,,,,,Gulf_of_Kutch,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,4.73,Open_Ocean
+28,73,2025,,,,,Gulf_of_Kutch,1.0,1.0,Aves,LC/Not Evaluated,Human_Observation,,,,,India,Consumer_Goods,High,11.5,,,,,,4.73,Open_Ocean
+28,75,2015,2.0,0.0280607115361417,1.0,PP,Gulf_of_Kutch,,,,,,27.8575,8.02175,123.0,0.0,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,4.73,Open_Ocean
+28,76,2016,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,20.9,Open_Ocean
+28,76,2018,,,,,Indian_Ocean,3.0,3.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,20.9,Open_Ocean
+28,76,2020,,,,,Indian_Ocean,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,20.9,Open_Ocean
+28,76,2022,,,,,Indian_Ocean,6.0,5.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,20.9,Open_Ocean
+28,76,2023,,,,,Indian_Ocean,5.0,5.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,20.9,Open_Ocean
+28,76,2024,,,,,Indian_Ocean,53.0,12.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+28,76,2025,,,,,Indian_Ocean,127.0,19.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+28,77,2017,,,,,Indian_Ocean,2.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,20.9,Open_Ocean
+28,77,2018,,,,,Indian_Ocean,4.0,4.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,20.9,Open_Ocean
+28,77,2019,,,,,Indian_Ocean,7.0,7.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,20.9,Open_Ocean
+28,77,2020,,,,,Indian_Ocean,7.0,3.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,20.9,Open_Ocean
+28,77,2021,,,,,Indian_Ocean,6.0,4.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,20.9,Open_Ocean
+28,77,2022,,,,,Indian_Ocean,2.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,20.9,Open_Ocean
+28,77,2023,,,,,Indian_Ocean,5.0,3.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,20.9,Open_Ocean
+28,77,2024,,,,,Indian_Ocean,26.0,13.0,Aves|Pisces,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+28,77,2025,,,,,Indian_Ocean,127.0,16.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+28,78,2015,2.0,0.0169821437328139,1.0,PS,Indian_Ocean,,,,,,27.8575,8.02175,123.0,0.0,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,20.9,Open_Ocean
+28,78,2015,5.0,0.0342078481473265,1.0,PE,Indian_Ocean,,,,,,28.5575,8.07275,116.5,0.0,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,20.9,Open_Ocean
+28,78,2025,,,,,Indian_Ocean,4.0,3.0,Aves|Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+28,79,2015,4.0,0.0383991184496632,1.0,PVC,Indian_Ocean,,,,,,28.732,8.048399999999999,101.2,0.2,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,20.9,Open_Ocean
+28,79,2024,,,,,Indian_Ocean,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+28,79,2025,,,,,Indian_Ocean,3.0,2.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+28,80,2015,,,,,Indian_Ocean,4.0,3.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,20.9,Open_Ocean
+28,80,2017,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,20.9,Open_Ocean
+28,80,2018,,,,,Indian_Ocean,3.0,3.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,20.9,Open_Ocean
+28,80,2019,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,20.9,Open_Ocean
+28,80,2020,,,,,Indian_Ocean,2.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,20.9,Open_Ocean
+28,80,2023,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,20.9,Open_Ocean
+28,80,2024,,,,,Indian_Ocean,2.0,2.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+28,80,2025,,,,,Indian_Ocean,25.0,10.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+28,82,2015,6.0,0.0286024746598067,1.0,PS,Indian_Ocean,,,,,,27.986,8.0716,120.6,0.2,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,20.9,Open_Ocean
+28,82,2016,9.0,0.0134745193596929,1.0,PVC,Indian_Ocean,,,,,,27.562,8.126999999999999,136.0,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,20.9,Open_Ocean
+28,86,2015,8.0,0.0231814963582144,1.0,PET,Indian_Ocean,,,,,,29.325,8.03725,118.75,0.5,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,20.9,Open_Ocean
+28,88,2021,,,,,Indian_Ocean,2.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,20.9,Open_Ocean
+28,88,2025,,,,,Indian_Ocean,2.0,2.0,Aves|Mammalia,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+28,90,2015,8.0,0.026442617451084,1.0,PP,Indian_Ocean,,,,,,29.325,8.03725,118.75,0.5,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,20.9,Open_Ocean
+28,94,2015,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,20.9,Open_Ocean
+28,94,2025,,,,,Indian_Ocean,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+29,66,2015,7.0,0.042564254372301,1.0,PVC,Gulf_of_Kutch,,,,,,27.908,8.051,133.0,0.2,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,4.73,Open_Ocean
+29,74,2025,,,,,Gulf_of_Kutch,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,4.73,Open_Ocean
+29,75,2023,,,,,Gulf_of_Kutch,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,4.73,Open_Ocean
+29,75,2025,,,,,Gulf_of_Kutch,5.0,3.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,4.73,Open_Ocean
+29,76,2025,,,,,Indian_Ocean,5.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+29,77,2025,,,,,Indian_Ocean,4.0,4.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+29,78,2016,,,,,Indian_Ocean,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,20.9,Open_Ocean
+29,78,2018,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,20.9,Open_Ocean
+29,78,2019,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,20.9,Open_Ocean
+29,78,2022,,,,,Indian_Ocean,5.0,5.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,20.9,Open_Ocean
+29,78,2023,,,,,Indian_Ocean,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,20.9,Open_Ocean
+29,78,2024,,,,,Indian_Ocean,18.0,8.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+29,78,2025,,,,,Indian_Ocean,18.0,8.0,Aves|Mammalia,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+29,79,2015,,,,,Indian_Ocean,9.0,6.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,20.9,Open_Ocean
+29,79,2016,2.0,0.018307547560398,1.0,PVC,Indian_Ocean,6.0,4.0,Aves,LC/Not Evaluated,Scientific,28.1625,8.104000000000001,122.75,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,20.9,Open_Ocean
+29,79,2017,,,,,Indian_Ocean,13.0,6.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,428.605,2.068,2.529,20.9,Open_Ocean
+29,79,2018,,,,,Indian_Ocean,10.0,5.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,430.64416666666665,2.039,4.289,20.9,Open_Ocean
+29,79,2019,,,,,Indian_Ocean,7.0,6.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,432.615,1.971,2.326,20.9,Open_Ocean
+29,79,2020,,,,,Indian_Ocean,22.0,5.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,434.78583333333336,2.171,4.287,20.9,Open_Ocean
+29,79,2021,,,,,Indian_Ocean,72.0,11.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,436.7416666666666,1.956,2.754,20.9,Open_Ocean
+29,79,2022,,,,,Indian_Ocean,27.0,11.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,20.9,Open_Ocean
+29,79,2023,,,,,Indian_Ocean,81.0,15.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,20.9,Open_Ocean
+29,79,2024,,,,,Indian_Ocean,63.0,16.0,Aves,LC/Not Evaluated,Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,443.1566666666667,2.111,3.837,20.9,Open_Ocean
+29,79,2025,,,,,Indian_Ocean,147.0,18.0,Aves,LC/Not Evaluated,Citizen_Science|Human_Observation|Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+29,80,2022,,,,,Indian_Ocean,2.0,2.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,439.0366666666667,2.295,3.689,20.9,Open_Ocean
+29,80,2023,,,,,Indian_Ocean,8.0,5.0,Aves,LC/Not Evaluated,Citizen_Science|Scientific,,,,,India,Consumer_Goods,High,11.5,,,441.04583333333335,2.009,4.08,20.9,Open_Ocean
+29,80,2025,,,,,Indian_Ocean,1.0,1.0,Aves,LC/Not Evaluated,Scientific,,,,,India,Consumer_Goods,High,11.5,,,,,,20.9,Open_Ocean
+29,88,2016,4.0,0.041500775695045,1.0,PET,Indian_Ocean,,,,,,28.68,8.05475,114.0,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,20.9,Open_Ocean
+29,91,2015,1.0,0.0123790947738764,1.0,PVC,Indian_Ocean,,,,,,29.110000000000003,8.006,103.2,0.0,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,20.9,Open_Ocean
+29,92,2016,3.0,0.0369167445922902,1.0,PVC,Indian_Ocean,,,,,,28.316000000000003,8.044799999999999,122.4,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,20.9,Open_Ocean
+29,93,2016,9.0,0.0123848882426467,1.0,PP,Indian_Ocean,,,,,,27.562,8.126999999999999,136.0,0.0,India,Consumer_Goods,High,11.5,,,426.5366666666666,2.117,3.718,20.9,Open_Ocean
+29,94,2015,7.0,0.0186446210831696,1.0,PVC,Indian_Ocean,,,,,,27.908,8.051,133.0,0.2,India,Consumer_Goods,High,11.5,16.058583333333335,,424.42,,,20.9,Open_Ocean

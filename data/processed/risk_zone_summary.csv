@@ -1,0 +1,4 @@
+Risk_Zone,n,Pct,Centroid_SST_C,Centroid_pH,Centroid_Species,SST_Tipping_Margin,pH_Tipping_Margin
+Stable,147,29.4,27.052,8.09715,140.67,3.577,0.21762
+At_Risk,252,50.4,28.647,8.04346,118.63,1.981,0.16394
+Critical,101,20.2,30.424,7.99705,95.68,0.204,0.11752
