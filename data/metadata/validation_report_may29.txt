@@ -1,0 +1,8 @@
+Post-Cleaning Validation Report | May 29, 2026
+Generated: 2026-06-19 09:18
+==================================================
+
+plastic_clean_final: 170 rows × 9 cols | nulls: 0
+species_clean_final: 9,586 rows × 19 cols | nulls: 9360
+climate_clean_v1: 500 rows × 9 cols | nulls: 0
+temp_clean_v1: 12 rows × 6 cols | nulls: 0

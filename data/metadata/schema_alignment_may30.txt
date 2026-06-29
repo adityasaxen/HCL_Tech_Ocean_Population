@@ -1,0 +1,21 @@
+Schema Alignment & Cleaning Threshold Documentation
+May 30, 2026
+============================================================
+
+CLEANING THRESHOLDS APPLIED:
+  Null drop threshold                : > 50% null → DROP column
+  Null impute (numeric)              : median value, per column
+  Null impute (categorical)          : fill with string "Unknown"
+  Year filter                        : 2015 <= year <= 2026
+  Bounding box                       : Lat 5N–30N, Lon 65E–95E
+  IQR outlier treatment              : Clip to [Q1-1.5IQR, Q3+1.5IQR] if outliers>0
+  Plastic unit conversion            : Plastic_Weight_kg / Cell_Area_km2 = Density_kg_km2
+  Plastic_Type normalization         : Full names → PET, PE, PS, PP, PVC
+  observation_type normalize         : 12 labels → 5 categories
+  SST units                          : Confirmed Celsius — no conversion
+
+JOIN KEYS FOR MASTER TABLE:
+  grid_lat (int) = floor(Latitude)
+  grid_lon (int) = floor(Longitude)
+  year     (int)
+  month    (int)

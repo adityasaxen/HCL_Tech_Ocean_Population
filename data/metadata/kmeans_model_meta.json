@@ -1,0 +1,35 @@
+{
+  "model": "KMeans",
+  "k": 3,
+  "inertia": 666.9464,
+  "n_iter": 11,
+  "random_state": 42,
+  "risk_map": {
+    "0": "Stable",
+    "1": "Critical",
+    "2": "At_Risk"
+  },
+  "centroids_original_scale": {
+    "0": {
+      "SST (\u00b0C)": 27.0518,
+      "pH Level": 8.0971,
+      "Species Observed": 140.6667
+    },
+    "1": {
+      "SST (\u00b0C)": 30.4242,
+      "pH Level": 7.997,
+      "Species Observed": 95.6832
+    },
+    "2": {
+      "SST (\u00b0C)": 28.6474,
+      "pH Level": 8.0435,
+      "Species Observed": 118.627
+    }
+  },
+  "cluster_sizes": {
+    "Stable": 147,
+    "Critical": 101,
+    "At_Risk": 252
+  },
+  "generated": "2026-06-20 11:06"
+}

@@ -1,0 +1,31 @@
+HCLTech Internship — Ingestion & Spatial Filter Log
+Date: May 20, 2026 | Logged: 2026-06-16 10:35
+============================================================
+
+BOUNDING BOX APPLIED:
+  Latitude  : 5°N – 30°N
+  Longitude : 65°E – 95°E
+
+FILTER RESULTS:
+  ocean_plastic         :  15000 →    170 (1.1% retained)
+  india_species         :  12374 →  10134 (81.9% retained)
+  global_temp           :   3192 →     12 (0.4% retained)
+  sea_level_co2         :    804 →    120 (14.9% retained)
+  river_india           :   3000 →    315 (10.5% retained)
+  plastic_world         :    165 →    165 (100.0% retained)
+  protected_sites       :    998 →    998 (100.0% retained)
+
+ISSUES FLAGGED:
+  Issue #1: realistic_ocean_climate_dataset — 0 records pass strict bbox.
+            Maldives (Lat 3.21°N) is below LAT_MIN=5. Red Sea at Lon 38.5°E.
+            Action: Kept full dataset. Mentor review needed.
+
+  Issue #2: ocean_plastic Region label is unreliable.
+            Records labelled Arctic/Atlantic appear inside Indian Ocean bbox.
+            Action: Using raw coordinates only for all spatial work.
+
+  Issue #3: india_cms year column has anomalous values (-980 to 9987).
+            Action: Will fix in Week 2 cleaning.
+
+  Issue #4: All 3 microplastic datasets have near-zero Indian Ocean coverage.
+            Action: Supplementary context only. Not used in spatial join.

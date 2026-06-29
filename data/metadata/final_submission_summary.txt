@@ -1,0 +1,7 @@
+FINAL SUBMISSION SUMMARY - HCLTech Internship
+==================================================
+Project Title: Marine Plastic Pollution & Biodiversity Risk Analysis
+Intern: Aditya Saxena
+Mentor Org: HCLTech
+Submission Date: 2026-06-29
+GitHub Repo Link: https://github.com/adityasaxen/HCL_Tech_Ocean_Population

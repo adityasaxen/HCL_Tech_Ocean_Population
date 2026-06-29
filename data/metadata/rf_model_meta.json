@@ -1,0 +1,25 @@
+{
+  "model": "RandomForestRegressor",
+  "best_params": {
+    "max_depth": 3,
+    "n_estimators": 100
+  },
+  "cv_r2": 0.3498,
+  "test_r2": 0.5607,
+  "test_mae": 12.1069,
+  "baseline_r2": 0.4803,
+  "baseline_mae": 12.9714,
+  "feature_importances": {
+    "SST (\u00b0C)": 0.9531,
+    "pH Level": 0.0469
+  },
+  "n_train": 400,
+  "n_test": 100,
+  "residuals": {
+    "mean": -0.2293,
+    "std": 14.5866,
+    "min": -31.87,
+    "max": 32.59
+  },
+  "generated": "2026-06-24 10:04"
+}

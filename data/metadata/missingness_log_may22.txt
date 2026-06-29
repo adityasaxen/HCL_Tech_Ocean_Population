@@ -1,0 +1,21 @@
+HCLTech Internship — Missingness Profiling Log
+Date: May 22, 2026 | Generated: 2026-06-16 10:35
+============================================================
+
+ocean_plastic: 0 null cells / 1,190 total = 0.0% sparse
+
+india_species: 26,526 null cells / 202,680 total = 13.1% sparse
+  event_date: 9903 (97.7%)
+  year: 114 (1.1%)
+  month: 114 (1.1%)
+  india_role: 1794 (17.7%)
+  migration_season: 1794 (17.7%)
+  location_type: 1794 (17.7%)
+  seasonal_density: 1794 (17.7%)
+  priority_group: 9219 (91.0%)
+
+ocean_climate: 150 null cells / 4,500 total = 3.3% sparse
+  Bleaching Severity: 150 (30.0%)
+
+global_temp: 0 null cells / 120 total = 0.0% sparse
+

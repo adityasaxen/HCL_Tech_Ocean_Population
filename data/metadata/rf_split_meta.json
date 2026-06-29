@@ -1,0 +1,11 @@
+{
+  "model_type": "RandomForestRegressor",
+  "features": [
+    "SST (\u00b0C)",
+    "pH Level"
+  ],
+  "target": "Species Observed",
+  "n_train": 400,
+  "n_test": 100,
+  "generated": "2026-06-22 10:35"
+}

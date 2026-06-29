@@ -1,0 +1,26 @@
+[
+  {
+    "pair": "SST vs Species Observed",
+    "r": -0.6813,
+    "p": 1.786670485284826e-69,
+    "n": 500,
+    "strength": "Strong",
+    "direction": "negative"
+  },
+  {
+    "pair": "pH  vs Species Observed",
+    "r": 0.327,
+    "p": 6.38096444225275e-14,
+    "n": 500,
+    "strength": "Moderate",
+    "direction": "positive"
+  },
+  {
+    "pair": "SST vs pH Level",
+    "r": -0.5154,
+    "p": 2.8698971892998696e-35,
+    "n": 500,
+    "strength": "Strong",
+    "direction": "negative"
+  }
+]

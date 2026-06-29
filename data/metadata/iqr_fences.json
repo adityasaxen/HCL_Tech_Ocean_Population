@@ -1,0 +1,108 @@
+{
+  "ocean_plastic": {
+    "Plastic_Weight_kg": {
+      "column": "Plastic_Weight_kg",
+      "q1": 160.445,
+      "q3": 388.4525,
+      "iqr": 228.0075,
+      "lower_fence": -181.5663,
+      "upper_fence": 730.4638,
+      "n_outliers": 0,
+      "outlier_pct": 0.0
+    },
+    "Depth_meters": {
+      "column": "Depth_meters",
+      "q1": 25.8275,
+      "q3": 78.6475,
+      "iqr": 52.82,
+      "lower_fence": -53.4025,
+      "upper_fence": 157.8775,
+      "n_outliers": 0,
+      "outlier_pct": 0.0
+    },
+    "Latitude": {
+      "column": "Latitude",
+      "q1": 13.1971,
+      "q3": 24.5209,
+      "iqr": 11.3238,
+      "lower_fence": -3.7886,
+      "upper_fence": 41.5066,
+      "n_outliers": 0,
+      "outlier_pct": 0.0
+    },
+    "Longitude": {
+      "column": "Longitude",
+      "q1": 72.5805,
+      "q3": 87.8754,
+      "iqr": 15.2949,
+      "lower_fence": 49.6382,
+      "upper_fence": 110.8177,
+      "n_outliers": 0,
+      "outlier_pct": 0.0
+    }
+  },
+  "india_species": {
+    "year": {
+      "column": "year",
+      "q1": 2023.0,
+      "q3": 2025.0,
+      "iqr": 2.0,
+      "lower_fence": 2020.0,
+      "upper_fence": 2028.0,
+      "n_outliers": 1462,
+      "outlier_pct": 14.59
+    },
+    "latitude": {
+      "column": "latitude",
+      "q1": 13.1064,
+      "q3": 26.7203,
+      "iqr": 13.614,
+      "lower_fence": -7.3146,
+      "upper_fence": 47.1413,
+      "n_outliers": 0,
+      "outlier_pct": 0.0
+    },
+    "longitude": {
+      "column": "longitude",
+      "q1": 74.3787,
+      "q3": 83.3886,
+      "iqr": 9.0099,
+      "lower_fence": 60.8639,
+      "upper_fence": 96.9034,
+      "n_outliers": 0,
+      "outlier_pct": 0.0
+    }
+  },
+  "ocean_climate": {
+    "SST (\u00b0C)": {
+      "column": "SST (\u00b0C)",
+      "q1": 27.53,
+      "q3": 29.4525,
+      "iqr": 1.9225,
+      "lower_fence": 24.6463,
+      "upper_fence": 32.3362,
+      "n_outliers": 3,
+      "outlier_pct": 0.6
+    },
+    "pH Level": {
+      "column": "pH Level",
+      "q1": 8.011,
+      "q3": 8.0852,
+      "iqr": 0.0743,
+      "lower_fence": 7.8996,
+      "upper_fence": 8.1966,
+      "n_outliers": 2,
+      "outlier_pct": 0.4
+    },
+    "Species Observed": {
+      "column": "Species Observed",
+      "q1": 107.75,
+      "q3": 133.25,
+      "iqr": 25.5,
+      "lower_fence": 69.5,
+      "upper_fence": 171.5,
+      "n_outliers": 2,
+      "outlier_pct": 0.4
+    }
+  }
+}

@@ -1,0 +1,33 @@
+MASTER TABLE SCHEMA DOCUMENTATION
+Generated: 2026-06-19 09:24
+============================================================
+
+Shape: 1,251 rows × 21 columns
+
+COLUMNS:
+  grid_lat                            int64      nulls=0      sample=5
+  grid_lon                            int64      nulls=0      sample=70
+  year                                int64      nulls=0      sample=2016
+  month                               float64    nulls=1084   sample=5.0
+  Plastic_Density_kg_km2              float64    nulls=1084   sample=0.0179096063499392
+  Plastic_Record_Count                float64    nulls=1084   sample=1.0
+  Plastic_Types_Present               object     nulls=1084   sample=PET
+  Ocean_Zone                          object     nulls=0      sample=Arabian_Sea
+  Species_Count                       float64    nulls=157    sample=6.0
+  Unique_Species                      float64    nulls=157    sample=1.0
+  Taxonomic_Groups                    object     nulls=157    sample=Mammalia
+  Dominant_IUCN                       object     nulls=157    sample=VU
+  Observation_Types                   object     nulls=157    sample=Human_Observation
+  SST_C                               float64    nulls=1084   sample=28.52
+  pH                                  float64    nulls=1084   sample=8.103399999999999
+  Species_Obs                         float64    nulls=1084   sample=123.0
+  Heatwave_Pct                        float64    nulls=1084   sample=0.4
+  Country                             object     nulls=0      sample=India
+  Waste_Source                        object     nulls=0      sample=Consumer_Goods
+  Coastal_Risk                        object     nulls=0      sample=High
+  Recycling_Rate_Pct                  float64    nulls=0      sample=11.5
+
+JOIN KEYS: grid_lat, grid_lon, year, month
+SPATIAL CRS: EPSG:4326 (WGS84)
+BOUNDING BOX: Lat 5N-30N, Lon 65E-95E
+TIME WINDOW: 2015

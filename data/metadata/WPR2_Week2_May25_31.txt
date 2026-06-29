@@ -1,0 +1,74 @@
+AMITY UNIVERSITY NOIDA
+NTCC WEEKLY PROGRESS REPORT — WEEK 2
+======================================================================
+Student Name      : Aditya Saxena
+Enrollment No.    : A010145025085
+Faculty Guide     : Dr. Sudhriti Sengupta
+Organization      : HCLTech
+Industry Mentor   : Amit Singh
+Project Title     : Spatio-temporal Analysis of Ocean Plastic Density
+                    and its Impact on Marine Biodiversity
+Report Period     : May 25 - May 31, 2026
+Date of Submission: June 29, 2026
+======================================================================
+
+1. OBJECTIVES FOR THIS WEEK:
+   a) Drop zero-variance constant attributes identified during Week 1 audit
+   b) Handle null values using localized median imputation and Unknown fills
+   c) Dictionary-based cleaning to fix referential text mismatches
+   d) Standardize all units to kg/km2 and verify SST uniformly in Celsius
+   e) Execute IQR outlier treatment using Week 1 fence values
+   f) Export cleaned datasets, validate schemas, document thresholds
+
+2. WORK COMPLETED (DAY BY DAY):
+   May 25 (Mon):
+   Programmatically dropped priority_group column (87pct null — 10,767/12,374 records). Handled null values in coordinate fields (float64) and species counts using localized median imputation to avoid distorting density skewness. Filled india_role, migration_season, location_type, seasonal_density with Unknown. Cast year column from float64 to int64.
+
+   May 26 (Tue):
+   Built and executed dictionary-based cleaning script to fix referential text mismatches across pollution and species datasets. Normalized Plastic_Type from verbose names to abbreviations: PET, PE, PS, PP, PVC. Standardized observation_type from 12 inconsistent labels to 5 canonical categories: Scientific, Occurrence, Human_Observation, Machine_Observation, Citizen_Science.
+
+   May 27 (Wed):
+   Standardized all units. Converted Plastic_Weight_kg to Plastic_Density_kg_km2 using lat-adjusted area formula: area = (111.32 km/deg)^2 * cos(lat_rad). Verified SST records are uniformly in Celsius (range 26-31C, Indian Ocean consistent). No conversion needed for SST.
+
+   May 28 (Thu):
+   Executed final IQR outlier treatment using fence values from iqr_fences.json. Result: zero violations in Plastic_Density_kg_km2. Species year anomalies treated via range filter 2015-2026 rather than IQR clip — removed 1,685 anomalous records without losing valid high-density hotspot signals.
+
+   May 29 (Fri):
+   Generated post-cleaning validation reports. Confirmed all key null counts = 0 after imputation. Verified dtypes correct across all columns. Exported plastic_clean_final.csv, species_clean_final.csv, climate_clean_v1.csv, temp_clean_v1.csv to /data/processed/. File structure integrity verified.
+
+   May 30 (Sat):
+   Schema alignment audits complete. Documented precise cleaning thresholds: null drop >50pct, IQR clip on [Q1-1.5*IQR, Q3+1.5*IQR], year filter 2015-2026, unit transformation laws. Verified join keys grid_lat, grid_lon, year, month compatible across datasets. 152 overlapping grid cells confirmed.
+
+   May 31 (Sun):
+   Pushed clean production-ready data layers to GitHub. Drafted WPR 2. Mapped spatial join logic for Week 3.
+
+3. KEY TECHNICAL FINDINGS:
+   [1] priority_group column dropped — 10,767/12,374 records (87pct) were null.
+   [2] Plastic_Density_kg_km2 derived: each kg value divided by lat-adjusted cell area.
+   [3] Cell_Area_km2 varies: ~10,500 km2 at 30N to ~12,100 km2 at 5N using cos(lat).
+   [4] Year range filter 2015-2026 removed 1,685 anomalous records from species data.
+   [5] All 3 microplastic datasets confirmed supplementary — excluded from spatial join.
+   [6] 152 overlapping grid cells between plastic and species bbox datasets confirmed.
+   [7] Join keys verified compatible: grid_lat (int), grid_lon (int), year (int), month (int).
+
+4. CLEANED DATASET SHAPES:
+   plastic_clean_final.csv: 170 rows x 9 cols | remaining nulls: 0
+   species_clean_final.csv: 9,586 rows x 19 cols | remaining nulls: 9360
+   climate_clean_v1.csv: 500 rows x 9 cols | remaining nulls: 0
+   temp_clean_v1.csv: 12 rows x 6 cols | remaining nulls: 0
+
+5. ISSUES / BLOCKERS:
+   Issue #1 (carried): realistic_ocean_climate Maldives (3.21N) below LAT_MIN=5.
+             Status: Kept full dataset. Will use for correlation analysis in Week 5.
+   No new blockers. All Week 2 cleaning objectives met on schedule.
+
+6. WEEK 3 SPATIAL JOIN PLAN (June 1-7):
+   - Initialize GeoPandas. Build 1x1 degree coordinate grid (750 cells).
+   - Execute spatial join: aggregate 15,000 plastic records into grid cells.
+   - Layer 12,374 species records + SST onto same grid by Year and Month (2015-2026).
+   - Compile Master Table: Ocean Region, Country, Year/Month, Plastic Density, Waste Source, Temperature, Population Count, Species Name, Habitat Type.
+   - Run cross-dataset join integrity checks. Ensure no data loss.
+   - Save Master Table as optimized Parquet/CSV. Commit to GitHub. Write WPR 3.
+
+Student Signature: Aditya Saxena
+Date: June 29, 2026

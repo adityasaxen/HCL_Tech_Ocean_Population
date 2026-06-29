@@ -1,0 +1,54 @@
+STATISTICAL MODELLING REPORT — WEEK 5
+HCLTech Internship | Aditya Saxena | A010145025085
+Generated: 2026-06-20 11:12
+
+SECTION 1: PEARSON CORRELATION ANALYSIS
+--------------------------------------------------
+Dataset: realistic_ocean_climate_dataset (n=500)
+  SST vs Species Observed:
+    r=-0.6813  p=1.79e-69  n=500
+    Strong negative correlation
+  pH  vs Species Observed:
+    r=0.327  p=6.38e-14  n=500
+    Moderate positive correlation
+  SST vs pH Level:
+    r=-0.5154  p=2.87e-35  n=500
+    Strong negative correlation
+  KEY FINDING: SST is the dominant stressor.
+  r=-0.6813: each +1°C SST rise = ~9.79 fewer species observed.
+  SST also reduces pH (r=-0.5154) — compounding dual stressor effect.
+
+SECTION 2: LINEAR REGRESSION — ECOLOGICAL TIPPING POINTS
+--------------------------------------------------
+  Model 1 (SST -> Species):
+    Species = -9.7886*SST + 399.8114
+    R2=0.4641  MAE=11.9903 species
+    Tipping Point: SST=30.6286°C  Margin: 2.1286°C
+
+  Model 2 (pH -> Species):
+    Species = 120.1779*pH + (-846.9446)
+    R2=0.1069  MAE=15.4235 species
+    Tipping Point: pH=7.879525  Margin: 0.1705 units
+
+SECTION 3: K-MEANS RISK CLUSTERING
+--------------------------------------------------
+  Model: KMeans(k=3, random_state=42, n_init=10)
+  Final inertia: 666.9464  Iterations: 11
+  Silhouette Score (overall): 0.2922 (Moderate)
+  CENTROIDS (original scale):
+    Stable    : SST=27.052°C, pH=8.09715, Species=140.67, n=147 (29.4%)
+    At_Risk   : SST=28.647°C, pH=8.04346, Species=118.63, n=252 (50.4%)
+    Critical  : SST=30.424°C, pH=7.99705, Species=95.68, n=101 (20.2%)
+
+  RISK DISTRIBUTION:
+    Stable   : 147 records (29.4%) — safe zone, SST margin +3.58°C
+    At-Risk  : 252 records (50.4%) — monitoring required, margin +1.98°C
+    Critical : 101 records (20.2%) — immediate concern, margin +0.20°C
+
+SECTION 4: INTEGRATED ECOLOGICAL RISK ASSESSMENT
+--------------------------------------------------
+  - Arabian Sea (35.82% plastic share) overlaps with At-Risk SST zone — priority region.
+  - 20.2% of observations already in Critical SST range (centroid 30.42°C).
+  - SST tipping point (30.63°C) only 2.13°C above current mean — ~10 year horizon.
+  - pH tipping point is ~85 years away — SST is the near-term priority stressor.
+  - Critical zone centroid (30.42°C) is only 0.20°C below tipping point.

@@ -1,0 +1,76 @@
+AMITY UNIVERSITY NOIDA
+NTCC WEEKLY PROGRESS REPORT — WEEK 1
+======================================================================
+Student Name      : Aditya Saxena
+Enrollment No.    : A010145025085
+Faculty Guide     : Dr. Sudhriti Sengupta
+Organization      : HCLTech
+Industry Mentor   : Amit Singh
+Project Title     : Spatio-temporal Analysis of Ocean Plastic Density
+                    and its Impact on Marine Biodiversity
+Report Period     : May 18 - May 24, 2026
+Date of Submission: June 29, 2026
+======================================================================
+
+1. OBJECTIVES FOR THIS WEEK:
+   a) Configure cloud development environment in Google Colab + Google Drive
+   b) Install and version-pin all 9 required data science libraries
+   c) Ingest all 11 raw datasets and apply North Indian Ocean bounding box filter
+   d) Run schema discovery, missingness profiling, and IQR outlier analysis
+
+2. WORK COMPLETED (DAY BY DAY):
+   May 18 (Mon):
+   Analyzed comprehensive internship project proposal with HCLTech mentors. Isolated 11 target datasets spanning Kaggle plastic waste monitors and UN/OBIS marine biology tracking records. Instantiated the main project repository on GitHub.
+
+   May 19 (Tue):
+   Configured dedicated cloud-based development runtime in Google Colab. Mounted Google Drive for persistent cloud staging. Created workspace structure: /data/raw, /data/processed, /data/metadata, /notebooks, /visualizations. Installed and version-pinned 9 core dependencies: Pandas 2.0.3, GeoPandas 0.13.2, Scikit-learn 1.3.0, NumPy 1.24.3, Matplotlib 3.7.2, Seaborn 0.12.2, Folium 0.14.0, Openpyxl 3.1.2, Requests 2.31.0. Full functional test passed for all 9 libraries.
+
+   May 20 (Wed):
+   Streamed all 11 raw datasets into staging area. Implemented programmatic spatial bounding box mask: Lat [5N-30N], Lon [65E-95E]. Focuses analysis on Arabian Sea, Bay of Bengal, and coastal Indian maritime zones. 4 data issues flagged and logged.
+
+   May 21 (Thu):
+   Schema metadata reviews using df.info() and df.dtypes across 15,000 plastic records and 12,374 marine species entries. Identified 8 structural challenges: text naming variations, mismatched mass reporting indices, zero-variance constant columns, year anomalies (-980 to 9987), 87pct null priority_group column.
+
+   May 22 (Fri):
+   Generated programmatic missing value matrices using .isnull().sum(). Mapped missing value distributions to determine structural sparsity across all 11 files. Logged initial sparsity statistics to metadata tracker. Visual bar chart exported.
+
+   May 23 (Sat):
+   Exploratory statistical profiling on continuous metrics. Applied IQR method: IQR=Q3-Q1, Fences=[Q1-1.5*IQR, Q3+1.5*IQR]. Result: zero violations in Plastic_Weight_kg or Depth_meters. Geographic outliers better resolved via bbox filter. Fence values saved to iqr_fences.json for Week 2 use.
+
+   May 24 (Sun):
+   Compiled WPR 1. Documented environmental baselines, verified library matrices, and bounding box coordinates for mentor verification. GitHub code freeze and push.
+
+3. KEY TECHNICAL FINDINGS:
+   [1] Bounding box Lat 5N-30N, Lon 65E-95E covers Arabian Sea, Bay of Bengal, Andaman Sea.
+   [2] ocean_plastic Region column labels are UNRELIABLE — raw coordinates used exclusively.
+   [3] india_cms year column: anomalous values (-980 to 9987). Filter to 2015-2026 in Week 2.
+   [4] priority_group column is 87pct null across 12,374 records — scheduled for DROP in Week 2.
+   [5] realistic_ocean_climate: 0 records pass strict bbox (Maldives 3.21N < 5N). Issue #1.
+   [6] All 3 microplastic datasets have near-zero Indian Ocean coverage — supplementary only.
+   [7] IQR analysis: Zero outliers in Plastic_Weight_kg or Depth_meters. No clipping needed.
+
+4. OUTPUTS PRODUCED THIS WEEK:
+   - environment_baseline.txt — library versions and folder paths
+   - ingestion_log_may20.txt   — 11 dataset shapes and 4 issues flagged
+   - schema_audit_may21.txt    — 8 structural issues catalogued
+   - missingness_log_may22.txt — null counts and handling strategies
+   - iqr_fences.json           — IQR fence values for Week 2 clipping
+   - 6 Colab notebooks (Week1_Day1 through Week1_Day6)
+   - 4 visualization PNGs in /visualizations/
+
+5. ISSUES / BLOCKERS:
+   Issue #1: realistic_ocean_climate Maldives (3.21N) below LAT_MIN=5.
+             Action: Kept full dataset unfiltered. Mentor guidance requested.
+   No other blockers. All Week 1 objectives met on schedule.
+
+6. PLAN FOR WEEK 2 (May 25-31):
+   - Programmatically drop zero-variance constant attributes flagged in Week 1
+   - Null imputation: localized median for numeric coords, Unknown for categoricals
+   - Dictionary-based text mismatch cleaning across pollution and species datasets
+   - Standardize units: plastic weight -> kg/km2, verify SST in Celsius
+   - Execute IQR outlier treatment using Week 1 fence values
+   - Export production-ready cleaned datasets to /data/processed/
+   - Run schema alignment audits and document cleaning thresholds
+
+Student Signature: Aditya Saxena
+Date: June 29, 2026

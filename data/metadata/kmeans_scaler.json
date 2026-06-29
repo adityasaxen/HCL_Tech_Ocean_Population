@@ -1,0 +1,18 @@
+{
+  "features": [
+    "SST (\u00b0C)",
+    "pH Level",
+    "Species Observed"
+  ],
+  "means": [
+    28.5372,
+    8.049872,
+    120.472
+  ],
+  "scales": [
+    1.42365,
+    0.055652,
+    20.454956
+  ],
+  "n_samples_fit": 500
+}

@@ -1,0 +1,41 @@
+DASHBOARD FILTER CONTROLS DOCUMENTATION
+Generated: 2026-06-25 10:49
+============================================================
+
+All 5 slicers are cross-filtering — selecting any value updates
+all panels (pie, map, bar, KPI tiles) simultaneously.
+
+Slicer 1: Country
+  Source table : master_table_v2
+  Values       : ['India']
+  Note         : All records in India maritime zone
+
+Slicer 2: Waste_Source
+  Source table : master_table_v2
+  Values       : ['Consumer_Goods']
+  Note         : India main source; Recycling_Rate=11.5%, Coastal_Risk=High
+
+Slicer 3: Ocean_Zone
+  Source table : master_table_v2
+  Values       : ['Arabian_Sea', 'Bay_of_Bengal', 'Andaman_Sea', 'Indian_Ocean', 'Gulf_of_Kutch']
+  Note         : Arabian Sea 35.82% plastic, Bay of Bengal 27.05%
+
+Slicer 4: Risk_Cluster
+  Source table : dashboard_ready_data
+  Values       : ['Stable', 'At_Risk', 'Critical']
+  Note         : K-Means k=3 — Stable:29.4%, At-Risk:50.4%, Critical:20.2%
+
+Slicer 5: year
+  Source table : master_table_v2
+  Values       : [2015]
+  Note         : Plastic actual 2015; Species 2015-2026
+
+DASHBOARD VISUAL PANELS:
+  KPI Tile 1   Total Plastic Density               4 kg/km²
+  KPI Tile 2   Species Observations                9,472 records
+  KPI Tile 3   Critical Risk Cells                 101 (20.2%)
+  KPI Tile 4   SST Tipping Point                   30.63°C (margin 2.13°C)
+  Panel A      Risk Zone Pie                       K-Means: Stable/At-Risk/Critical
+  Panel B      Plastic Hotspot Map                 34 hotspot cells
+  Panel C      Species by Risk Zone Bar            K-Means centroid species counts
+  Panel D      Folium Spatial Map                  Interactive HTML map (June 27)

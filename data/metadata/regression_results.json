@@ -1,0 +1,18 @@
+{
+  "model_SST_Species": {
+    "equation": "Species = -9.7886*SST + 399.8114",
+    "R2": 0.4641,
+    "MAE": 11.9903,
+    "tipping_point_SST_C": 30.6286,
+    "current_mean_SST": 28.5,
+    "margin_C": 2.1286
+  },
+  "model_pH_Species": {
+    "equation": "Species = 120.1779*pH + (-846.9446)",
+    "R2": 0.1069,
+    "MAE": 15.4235,
+    "tipping_point_pH": 7.879525,
+    "current_mean_pH": 8.05,
+    "margin_pH": 0.1705
+  }
+}

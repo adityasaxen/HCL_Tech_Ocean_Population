@@ -1,0 +1,28 @@
+HCLTech Internship — Environment Baseline
+Logged on: 2026-06-09 10:44
+==================================================
+
+LIBRARY VERSIONS:
+  pandas         : 2.2.2        (required: 2.0.3) [MISMATCH]
+  geopandas      : 1.1.3        (required: 0.13.2) [MISMATCH]
+  scikit-learn   : 1.6.1        (required: 1.3.0) [MISMATCH]
+  numpy          : 2.0.2        (required: 1.24.3) [MISMATCH]
+  matplotlib     : 3.10.0       (required: 3.7.2) [MISMATCH]
+  seaborn        : 0.13.2       (required: 0.12.2) [MISMATCH]
+  folium         : 0.20.0       (required: 0.14.0) [MISMATCH]
+  openpyxl       : 3.1.5        (required: 3.1.2) [MISMATCH]
+  requests       : 2.32.4       (required: 2.31.0) [MISMATCH]
+
+BOUNDING BOX:
+  Latitude  : 5N to 30N
+  Longitude : 65E to 95E
+  Covers    : Arabian Sea, Bay of Bengal, Andaman Sea
+
+PROJECT FOLDER STRUCTURE:
+  /Ocean_Plastic_Project/data/raw/
+  /Ocean_Plastic_Project/data/processed/
+  /Ocean_Plastic_Project/data/metadata/
+  /Ocean_Plastic_Project/notebooks/
+  /Ocean_Plastic_Project/visualizations/
+  /Ocean_Plastic_Project/scripts/
+  /Ocean_Plastic_Project/outputs/

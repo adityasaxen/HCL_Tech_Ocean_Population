@@ -1,0 +1,20 @@
+HCLTech Internship — Schema Audit Report
+Date: May 21, 2026
+============================================================
+
+DATASET SHAPES:
+  ocean_plastic       :    170 rows ×  7 cols
+  india_species       :  10134 rows × 20 cols
+  ocean_climate       :    500 rows ×  9 cols
+  global_temp         :     12 rows × 10 cols
+  sea_level_co2       :    120 rows ×  9 cols
+
+ISSUES FLAGGED FOR WEEK 2 CLEANING:
+  [1] ocean_plastic: Plastic_Type uses verbose names — shorten to abbreviations
+  [2] ocean_plastic: Region label is unreliable — do not use as spatial key
+  [3] india_species: year is float64 with anomalies — cast to int, filter 2015-2026
+  [4] india_species: priority_group is 87% null — DROP column
+  [5] india_species: observation_type has 12 inconsistent labels — normalize to 5
+  [6] india_species: NBN-Atlas-UK source has 630 UK records — review for exclusion
+  [7] ocean_climate: Bleaching Severity has 150 nulls — fill with Unknown
+  [8] global_temp: LandMaxTemperature is 37.6% null — only use LandAndOcean column

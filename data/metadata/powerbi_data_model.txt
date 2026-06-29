@@ -1,0 +1,82 @@
+POWER BI / TABLEAU DATA MODEL DOCUMENTATION
+Generated: 2026-06-25 10:43
+=================================================================
+
+STAR SCHEMA OVERVIEW:
+  FACT TABLE        : master_table_v2.csv
+  PREDICTION TABLE  : dashboard_ready_data.csv
+  DIMENSION TABLE 1 : risk_zone_summary.csv
+  DIMENSION TABLE 2 : hotspots.csv
+
+RELATIONSHIPS:
+  master_table_v2[Ocean_Zone] → risk_zone_summary[Risk_Zone]  (Many-to-One)
+  dashboard_ready_data[Risk_Cluster] → risk_zone_summary[Risk_Zone]  (Many-to-One)
+  master_table_v2[grid_lat/lon] → hotspots[grid_lat/lon]  (Many-to-One)
+
+FACT TABLE — master_table_v2.csv:
+  grid_lat: int64
+  grid_lon: int64
+  year: int64
+  month: float64
+  Plastic_Density_kg_km2: float64
+  Plastic_Record_Count: float64
+  Plastic_Types_Present: object
+  Ocean_Zone: object
+  Species_Count: float64
+  Unique_Species: float64
+  Taxonomic_Groups: object
+  Dominant_IUCN: object
+  Observation_Types: object
+  SST_C: float64
+  pH: float64
+  Species_Obs: float64
+  Heatwave_Pct: float64
+  Country: object
+  Waste_Source: object
+  Coastal_Risk: object
+  Recycling_Rate_Pct: float64
+  Avg_Temp_C: float64
+  Temp_Change_C: float64
+  co2_ppm: float64
+  CO2_Change_ppm: float64
+  Sea_Level_Change_mm: float64
+  Regional_Contribution_Pct: float64
+  Habitat_Type: object
+
+PREDICTION TABLE — dashboard_ready_data.csv:
+  Date: object
+  Location: object
+  Latitude: float64
+  Longitude: float64
+  SST (°C): float64
+  pH Level: float64
+  Species Observed: int64
+  RF_Predicted_Species: float64
+  Prediction_Error: float64
+  Risk_Cluster: object
+
+DIMENSION — risk_zone_summary.csv:
+  Risk_Zone: object
+  n: int64
+  Pct: float64
+  Centroid_SST_C: float64
+  Centroid_pH: float64
+  Centroid_Species: float64
+  SST_Tipping_Margin: float64
+  pH_Tipping_Margin: float64
+
+FILTER SLICERS (5 total):
+  Country (source: master_table_v2): India
+  Waste_Source (source: master_table_v2): Consumer_Goods, Industrial
+  Ocean_Zone (source: master_table_v2): Arabian_Sea, Bay_of_Bengal, Andaman_Sea, Indian_Ocean, Gulf_of_Kutch
+  Risk_Cluster (source: dashboard_ready_data): Stable, At_Risk, Critical
+  year (source: master_table_v2): 2015-2026
+
+STEPS IN POWER BI DESKTOP:
+  1. Get Data → Text/CSV → load all 4 CSV files from Google Drive
+  2. Transform Data → verify dtypes → set Date col as Date type
+  3. Model View → draw relationships as documented above
+  4. Report View → Add visuals: KPI cards, pie chart, map, bar chart
+  5. Add 5 Slicers: Country, Waste_Source, Ocean_Zone, Risk_Cluster, year
+  6. Connect Folium HTML map as embedded visual or link
+  7. File → Save As → .pbix → export to Google Drive
